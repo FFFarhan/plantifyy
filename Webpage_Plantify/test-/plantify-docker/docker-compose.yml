@@ -1,0 +1,70 @@
+x-common-build: &mqtt-build
+  build: ./mqtt_scripts
+  networks:
+    - mqtt_net
+  depends_on:
+    - mqtt-broker
+  environment:
+    MQTT_BROKER: mosquitto-broker
+    DB_HOST: ${DB_HOST}
+    DB_USER: ${DB_SENSOR_WRITER}
+    DB_PASSWORD: ${DB_SENSOR_PW}
+    DB_NAME: ${DB_NAME}
+    
+services:
+  mqtt-broker:
+    image: eclipse-mosquitto@sha256:94f5a3d7deafa59fa3440d227ddad558f59d293c612138de841eec61bfa4d353
+    container_name: mosquitto-broker
+    restart: always
+    ports:
+      - "127.0.0.1:1883:1883"
+    volumes:
+      - ./mosquitto/config:/mosquitto/config
+      - ./mosquitto/data:/mosquitto/data
+      - ./mosquitto/log:/mosquitto/log
+    command: mosquitto -c /mosquitto/config/mosquitto.conf
+    networks:
+      - mqtt_net
+
+  webinterface:
+    build: ./webinterface
+    container_name: plantify-webinterface
+    restart: always
+    ports:
+      - "127.0.0.1:8080:8080"
+    environment:
+      - API_URL=http://plantify-api:5001
+    networks:
+      - api_net
+    
+  mqtt-message_handler:
+    <<: *mqtt-build
+    command: python message_handler.py
+    container_name: message_handler
+    restart: always
+      
+  mqtt-registration_handler:
+    <<: *mqtt-build
+    command: python registration_handler.py
+    container_name: registration_handler
+    restart: always
+  
+  api:
+    build: ./api
+    container_name: plantify-api
+    restart: always
+    ports:
+      - "127.0.0.1:5001:5001"
+    env_file:
+      - .env
+    networks:
+      - api_net
+    volumes:
+      - ./data:/app/data   
+      
+networks:
+  mqtt_net:
+  api_net:
+
+volumes:
+  mysql_data:

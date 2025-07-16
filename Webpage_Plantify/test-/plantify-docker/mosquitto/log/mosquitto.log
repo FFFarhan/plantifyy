@@ -1,0 +1,2181 @@
+1746616501: mosquitto version 2.0.21 starting
+1746616501: Config loaded from /mosquitto/config/mosquitto.conf.
+1746616501: Opening ipv4 listen socket on port 1883.
+1746616501: mosquitto version 2.0.21 running
+1746616893: mosquitto version 2.0.21 terminating
+1746616905: mosquitto version 2.0.21 starting
+1746616905: Config loaded from /mosquitto/config/mosquitto.conf.
+1746616905: Opening ipv4 listen socket on port 1883.
+1746616905: mosquitto version 2.0.21 running
+1746617138: New connection from 172.21.0.1:43044 on port 1883.
+1746617138: New client connected from 172.21.0.1:43044 as auto-64A31C9B-0704-E821-FAC1-1476B6339E62 (p2, c1, k60).
+1746617168: New connection from 172.21.0.1:35028 on port 1883.
+1746617168: New client connected from 172.21.0.1:35028 as auto-BC9B6E4B-1A2E-FC8F-471F-76E0AA324200 (p2, c1, k60).
+1746617168: Client auto-BC9B6E4B-1A2E-FC8F-471F-76E0AA324200 disconnected.
+1746617193: New connection from 172.21.0.1:44276 on port 1883.
+1746617193: New client connected from 172.21.0.1:44276 as auto-1A707BAF-AC94-6E1C-5774-6F5757DB3597 (p2, c1, k60).
+1746617193: Client auto-1A707BAF-AC94-6E1C-5774-6F5757DB3597 disconnected.
+1746617199: Client auto-64A31C9B-0704-E821-FAC1-1476B6339E62 disconnected.
+1746617218: New connection from 172.21.0.1:53102 on port 1883.
+1746617218: New client connected from 172.21.0.1:53102 as auto-E1C39C84-D590-A7AF-4CAB-016187E92B40 (p2, c1, k60).
+1746617230: New connection from 172.21.0.1:41262 on port 1883.
+1746617230: New client connected from 172.21.0.1:41262 as auto-F55452E3-F79C-FAF0-E7F7-2A9578A852F5 (p2, c1, k60).
+1746617230: Client auto-F55452E3-F79C-FAF0-E7F7-2A9578A852F5 disconnected.
+1746617283: mosquitto version 2.0.21 terminating
+1746617314: mosquitto version 2.0.21 starting
+1746617314: Config loaded from /mosquitto/config/mosquitto.conf.
+1746617314: Opening ipv4 listen socket on port 1883.
+1746617314: mosquitto version 2.0.21 running
+1746617317: New connection from 172.22.0.1:45676 on port 1883.
+1746617317: New client connected from 172.22.0.1:45676 as auto-13C960CB-E759-3B50-5464-92271711AD21 (p2, c1, k60).
+1746617321: New connection from 172.22.0.1:45678 on port 1883.
+1746617321: New client connected from 172.22.0.1:45678 as auto-38EF0CEC-9CF8-465A-C354-FFC8D9A133C3 (p2, c1, k60).
+1746617321: Client auto-38EF0CEC-9CF8-465A-C354-FFC8D9A133C3 disconnected.
+1746617331: mosquitto version 2.0.21 terminating
+1746617338: mosquitto version 2.0.21 starting
+1746617338: Config loaded from /mosquitto/config/mosquitto.conf.
+1746617338: Opening ipv4 listen socket on port 1883.
+1746617338: mosquitto version 2.0.21 running
+1746617338: New connection from 172.23.0.1:51406 on port 1883.
+1746617338: New client connected from 172.23.0.1:51406 as auto-84B152A2-E2FD-263F-E3B7-6DA40860A3BB (p2, c1, k60).
+1746617339: New connection from 172.23.0.3:43005 on port 1883.
+1746617339: New client connected from 172.23.0.3:43005 as 1 (p2, c0, k60).
+1746617346: Client auto-84B152A2-E2FD-263F-E3B7-6DA40860A3BB disconnected.
+1746617347: New connection from 172.23.0.1:51408 on port 1883.
+1746617347: New client connected from 172.23.0.1:51408 as auto-7C4FE4AC-FB35-E89C-FA2C-A5400913A163 (p2, c1, k60).
+1746617350: New connection from 172.23.0.1:55990 on port 1883.
+1746617350: New client connected from 172.23.0.1:55990 as auto-C622A92C-4B7D-1451-40F8-FE9BD87974B1 (p2, c1, k60).
+1746617350: Client auto-C622A92C-4B7D-1451-40F8-FE9BD87974B1 disconnected.
+1746617589: Client 1 closed its connection.
+1746617590: mosquitto version 2.0.21 terminating
+1746617601: mosquitto version 2.0.21 starting
+1746617601: Config loaded from /mosquitto/config/mosquitto.conf.
+1746617601: Opening ipv4 listen socket on port 1883.
+1746617601: mosquitto version 2.0.21 running
+1746617602: New connection from 172.24.0.3:45911 on port 1883.
+1746617602: New client connected from 172.24.0.3:45911 as 1 (p2, c0, k60).
+1746617602: New connection from 172.24.0.1:47188 on port 1883.
+1746617602: New client connected from 172.24.0.1:47188 as auto-CE9B1E1B-D071-DE1A-A96D-278120D4DCE5 (p2, c1, k60).
+1746617611: Client auto-CE9B1E1B-D071-DE1A-A96D-278120D4DCE5 disconnected.
+1746617612: New connection from 172.24.0.1:55820 on port 1883.
+1746617612: New client connected from 172.24.0.1:55820 as auto-1E03BD9A-F8E0-06BE-30BA-3274AE0EB50E (p2, c1, k60).
+1746617616: New connection from 172.24.0.1:55822 on port 1883.
+1746617616: New client connected from 172.24.0.1:55822 as auto-8FFF65C2-50AA-7BEF-2344-0D74498A385E (p2, c1, k60).
+1746617616: Client auto-8FFF65C2-50AA-7BEF-2344-0D74498A385E disconnected.
+1746687857: mosquitto version 2.0.21 starting
+1746687857: Config loaded from /mosquitto/config/mosquitto.conf.
+1746687857: Opening ipv4 listen socket on port 1883.
+1746687857: mosquitto version 2.0.21 running
+1746687858: New connection from 172.24.0.2:33273 on port 1883.
+1746687858: New client connected from 172.24.0.2:33273 as 1 (p2, c0, k60).
+1746688305: New connection from 172.24.0.1:47596 on port 1883.
+1746688305: New client connected from 172.24.0.1:47596 as auto-49A59A6D-FDA9-3A28-D1ED-632DCA6432CC (p2, c1, k60).
+1746688305: Client auto-49A59A6D-FDA9-3A28-D1ED-632DCA6432CC disconnected.
+1746693623: Client 1 has exceeded timeout, disconnecting.
+1746693626: New connection from 172.24.0.2:43667 on port 1883.
+1746693626: New client connected from 172.24.0.2:43667 as 1 (p2, c0, k60).
+1746694031: New connection from 172.24.0.1:38574 on port 1883.
+1746694031: New client connected from 172.24.0.1:38574 as auto-E12F061F-1FA8-353D-CDB3-D7055981B779 (p2, c1, k60).
+1746694031: Client auto-E12F061F-1FA8-353D-CDB3-D7055981B779 disconnected.
+1746694158: Client 1 closed its connection.
+1746694159: mosquitto version 2.0.21 terminating
+1746694210: mosquitto version 2.0.21 starting
+1746694210: Config loaded from /mosquitto/config/mosquitto.conf.
+1746694210: Opening ipv4 listen socket on port 1883.
+1746694210: mosquitto version 2.0.21 running
+1746694211: New connection from 172.18.0.3:44523 on port 1883.
+1746694211: New client connected from 172.18.0.3:44523 as 1 (p2, c0, k60).
+1746694220: Client 1 closed its connection.
+1746694253: New connection from 172.18.0.1:49186 on port 1883.
+1746694253: New client connected from 172.18.0.1:49186 as auto-F1795D52-9AE4-7258-0B22-120743121C30 (p2, c1, k60).
+1746694253: Client auto-F1795D52-9AE4-7258-0B22-120743121C30 disconnected.
+1746694259: New connection from 172.18.0.1:53326 on port 1883.
+1746694259: New client connected from 172.18.0.1:53326 as auto-0C0CE485-8FEC-294F-37C7-9ED45400D18E (p2, c1, k60).
+1746694259: Client auto-0C0CE485-8FEC-294F-37C7-9ED45400D18E disconnected.
+1746694269: New connection from 172.18.0.3:49849 on port 1883.
+1746694269: New client connected from 172.18.0.3:49849 as 1 (p2, c0, k60).
+1746702576: mosquitto version 2.0.21 starting
+1746702576: Config loaded from /mosquitto/config/mosquitto.conf.
+1746702576: Opening ipv4 listen socket on port 1883.
+1746702576: mosquitto version 2.0.21 running
+1746702576: New connection from 172.18.0.3:44393 on port 1883.
+1746702576: New client connected from 172.18.0.3:44393 as 1 (p2, c0, k60).
+1746702906: New connection from 172.18.0.1:32848 on port 1883.
+1746702906: New client connected from 172.18.0.1:32848 as auto-7C28E4B5-0A25-0EEF-630F-522F73A45E59 (p2, c1, k60).
+1746702906: Client auto-7C28E4B5-0A25-0EEF-630F-522F73A45E59 disconnected.
+1746702991: Client 1 closed its connection.
+1746703017: New connection from 172.18.0.1:44698 on port 1883.
+1746703017: New client connected from 172.18.0.1:44698 as auto-A5560045-6878-F091-92C5-7C7A6FCCEB7A (p2, c1, k60).
+1746703017: Client auto-A5560045-6878-F091-92C5-7C7A6FCCEB7A disconnected.
+1746703023: New connection from 172.18.0.1:34196 on port 1883.
+1746703023: New client connected from 172.18.0.1:34196 as auto-C04BEDAB-7C23-7A7F-0C0E-DDF11548A2C7 (p2, c1, k60).
+1746703023: Client auto-C04BEDAB-7C23-7A7F-0C0E-DDF11548A2C7 disconnected.
+1746703040: New connection from 172.18.0.3:57023 on port 1883.
+1746703040: New client connected from 172.18.0.3:57023 as 1 (p2, c0, k60).
+1746774481: mosquitto version 2.0.21 starting
+1746774481: Config loaded from /mosquitto/config/mosquitto.conf.
+1746774481: Opening ipv4 listen socket on port 1883.
+1746774481: mosquitto version 2.0.21 running
+1746774482: New connection from 172.18.0.3:59937 on port 1883.
+1746774482: New client connected from 172.18.0.3:59937 as 1 (p2, c0, k60).
+1746863928: mosquitto version 2.0.21 starting
+1746863928: Config loaded from /mosquitto/config/mosquitto.conf.
+1746863928: Opening ipv4 listen socket on port 1883.
+1746863928: mosquitto version 2.0.21 running
+1746863928: New connection from 172.18.0.2:35163 on port 1883.
+1746863928: New client connected from 172.18.0.2:35163 as 1 (p2, c0, k60).
+1746865686: Client 1 closed its connection.
+1746865687: mosquitto version 2.0.21 terminating
+1746865706: mosquitto version 2.0.21 starting
+1746865706: Config loaded from /mosquitto/config/mosquitto.conf.
+1746865706: Opening ipv4 listen socket on port 1883.
+1746865706: mosquitto version 2.0.21 running
+1746865707: New connection from 172.18.0.3:56031 on port 1883.
+1746865707: New client connected from 172.18.0.3:56031 as 1 (p2, c0, k60).
+1746865791: New connection from 172.18.0.1:34078 on port 1883.
+1746865791: New client connected from 172.18.0.1:34078 as auto-64286AFC-8551-3E5E-E004-2D2241CF0243 (p2, c1, k60).
+1746865791: Client auto-64286AFC-8551-3E5E-E004-2D2241CF0243 disconnected.
+1746866352: Client 1 closed its connection.
+1746866352: mosquitto version 2.0.21 terminating
+1746866388: mosquitto version 2.0.21 starting
+1746866388: Config loaded from /mosquitto/config/mosquitto.conf.
+1746866388: Opening ipv4 listen socket on port 1883.
+1746866388: mosquitto version 2.0.21 running
+1746866389: New connection from 172.19.0.3:53209 on port 1883.
+1746866389: New client connected from 172.19.0.3:53209 as 1 (p2, c0, k60).
+1746866403: New connection from 172.19.0.1:59732 on port 1883.
+1746866403: New client connected from 172.19.0.1:59732 as auto-9BB34134-0595-10DC-498E-5AF35454583E (p2, c1, k60).
+1746866403: Client auto-9BB34134-0595-10DC-498E-5AF35454583E disconnected.
+1746866499: Client 1 closed its connection.
+1746866499: mosquitto version 2.0.21 terminating
+1746866545: mosquitto version 2.0.21 starting
+1746866545: Config loaded from /mosquitto/config/mosquitto.conf.
+1746866545: Opening ipv4 listen socket on port 1883.
+1746866545: mosquitto version 2.0.21 running
+1746866545: New connection from 172.20.0.3:50879 on port 1883.
+1746866545: New client connected from 172.20.0.3:50879 as 1 (p2, c0, k60).
+1746866551: New connection from 172.20.0.1:38750 on port 1883.
+1746866551: New client connected from 172.20.0.1:38750 as auto-121C30DC-6526-21FC-D683-6BB1AEC58166 (p2, c1, k60).
+1746866551: Client auto-121C30DC-6526-21FC-D683-6BB1AEC58166 disconnected.
+1746866754: Client 1 closed its connection.
+1746866755: mosquitto version 2.0.21 terminating
+1746866854: mosquitto version 2.0.21 starting
+1746866854: Config loaded from /mosquitto/config/mosquitto.conf.
+1746866854: Opening ipv4 listen socket on port 1883.
+1746866854: mosquitto version 2.0.21 running
+1746866855: New connection from 172.21.0.3:52393 on port 1883.
+1746866855: New client connected from 172.21.0.3:52393 as 1 (p2, c0, k60).
+1746866932: New connection from 172.21.0.1:46548 on port 1883.
+1746866932: New client connected from 172.21.0.1:46548 as auto-6F102FA5-BFAA-72D9-E00D-9B7290CD21EC (p2, c1, k60).
+1746866932: Client auto-6F102FA5-BFAA-72D9-E00D-9B7290CD21EC disconnected.
+1746867071: New connection from 172.21.0.1:44056 on port 1883.
+1746867071: New client connected from 172.21.0.1:44056 as auto-BA6D189E-1EB6-5E45-CA5B-12C553FDBC76 (p2, c1, k60).
+1746867071: Client auto-BA6D189E-1EB6-5E45-CA5B-12C553FDBC76 disconnected.
+1746867237: Client 1 closed its connection.
+1746867237: mosquitto version 2.0.21 terminating
+1746867242: mosquitto version 2.0.21 starting
+1746867242: Config loaded from /mosquitto/config/mosquitto.conf.
+1746867242: Opening ipv4 listen socket on port 1883.
+1746867242: mosquitto version 2.0.21 running
+1746867243: New connection from 172.22.0.3:46539 on port 1883.
+1746867243: New client connected from 172.22.0.3:46539 as 1 (p2, c0, k60).
+1746867252: New connection from 172.22.0.1:36982 on port 1883.
+1746867252: New client connected from 172.22.0.1:36982 as auto-2B7C24D0-04B7-2865-38AF-503B65758CFA (p2, c1, k60).
+1746867252: Client auto-2B7C24D0-04B7-2865-38AF-503B65758CFA disconnected.
+1746867310: Client 1 closed its connection.
+1746867310: mosquitto version 2.0.21 terminating
+1746867521: mosquitto version 2.0.21 starting
+1746867521: Config loaded from /mosquitto/config/mosquitto.conf.
+1746867521: Opening ipv4 listen socket on port 1883.
+1746867521: mosquitto version 2.0.21 running
+1746867522: New connection from 172.23.0.3:39309 on port 1883.
+1746867522: New client connected from 172.23.0.3:39309 as 1 (p2, c0, k60).
+1746867578: New connection from 172.23.0.1:34090 on port 1883.
+1746867578: New client connected from 172.23.0.1:34090 as auto-CC962939-1D76-93F4-D274-45791A01F589 (p2, c1, k60).
+1746867578: Client auto-CC962939-1D76-93F4-D274-45791A01F589 disconnected.
+1746867674: Client 1 closed its connection.
+1746867675: mosquitto version 2.0.21 terminating
+1746868156: mosquitto version 2.0.21 starting
+1746868156: Config loaded from /mosquitto/config/mosquitto.conf.
+1746868156: Opening ipv4 listen socket on port 1883.
+1746868156: mosquitto version 2.0.21 running
+1746868164: New connection from 172.24.0.1:37016 on port 1883.
+1746868164: New client connected from 172.24.0.1:37016 as auto-4769464A-272E-5ACA-B0AB-10ECB0FDE548 (p2, c1, k60).
+1746868164: Client auto-4769464A-272E-5ACA-B0AB-10ECB0FDE548 disconnected.
+1746868201: New connection from 172.24.0.1:47896 on port 1883.
+1746868201: New client connected from 172.24.0.1:47896 as auto-5A124B19-E26B-C93D-B650-A62E66458E99 (p2, c1, k60).
+1746868201: Client auto-5A124B19-E26B-C93D-B650-A62E66458E99 disconnected.
+1746868244: New connection from 172.24.0.1:59716 on port 1883.
+1746868244: New client connected from 172.24.0.1:59716 as auto-FDC42110-2AB7-236D-3E91-D92C51331788 (p2, c1, k60).
+1746868244: Client auto-FDC42110-2AB7-236D-3E91-D92C51331788 disconnected.
+1746868275: New connection from 172.24.0.1:40244 on port 1883.
+1746868275: New client connected from 172.24.0.1:40244 as auto-F4E2B7F2-2AF6-8050-DA92-3DA254DF4668 (p2, c1, k60).
+1746868275: Client auto-F4E2B7F2-2AF6-8050-DA92-3DA254DF4668 disconnected.
+1746868291: mosquitto version 2.0.21 terminating
+1746868417: mosquitto version 2.0.21 starting
+1746868417: Config loaded from /mosquitto/config/mosquitto.conf.
+1746868417: Opening ipv4 listen socket on port 1883.
+1746868417: mosquitto version 2.0.21 running
+1746868422: New connection from 172.25.0.1:40234 on port 1883.
+1746868422: New client connected from 172.25.0.1:40234 as auto-99481229-2DF7-BC46-79C9-3E579557D8AF (p2, c1, k60).
+1746868422: Client auto-99481229-2DF7-BC46-79C9-3E579557D8AF disconnected.
+1746870021: New connection from 172.25.0.1:54922 on port 1883.
+1746870021: New client connected from 172.25.0.1:54922 as auto-F0E0B1A6-BC5E-5C57-FC6B-6502912F63CB (p2, c1, k60).
+1746870021: Client auto-F0E0B1A6-BC5E-5C57-FC6B-6502912F63CB disconnected.
+1746870106: New connection from 172.25.0.1:49246 on port 1883.
+1746870106: New client connected from 172.25.0.1:49246 as 0001 (p2, c1, k60).
+1746870110: New connection from 172.25.0.1:49248 on port 1883.
+1746870110: New client connected from 172.25.0.1:49248 as auto-F0678DE8-C19E-C338-075B-F81FAB68085C (p2, c1, k60).
+1746870110: Client auto-F0678DE8-C19E-C338-075B-F81FAB68085C disconnected.
+1746870111: New connection from 172.25.0.1:49250 on port 1883.
+1746870111: New client connected from 172.25.0.1:49250 as auto-E3433532-D84A-B46E-634C-5E73563A1303 (p2, c1, k60).
+1746870111: Client auto-E3433532-D84A-B46E-634C-5E73563A1303 disconnected.
+1746870129: mosquitto version 2.0.21 terminating
+1746870200: mosquitto version 2.0.21 starting
+1746870200: Config loaded from /mosquitto/config/mosquitto.conf.
+1746870200: Opening ipv4 listen socket on port 1883.
+1746870200: mosquitto version 2.0.21 running
+1746870201: New connection from 172.26.0.1:43014 on port 1883.
+1746870201: New client connected from 172.26.0.1:43014 as 0001 (p2, c1, k60).
+1746870211: mosquitto version 2.0.21 terminating
+1746870283: mosquitto version 2.0.21 starting
+1746870283: Config loaded from /mosquitto/config/mosquitto.conf.
+1746870283: Opening ipv4 listen socket on port 1883.
+1746870283: mosquitto version 2.0.21 running
+1746870284: New connection from 172.26.0.1:59992 on port 1883.
+1746870284: New client connected from 172.26.0.1:59992 as 0001 (p2, c1, k60).
+1746870294: mosquitto version 2.0.21 terminating
+1746870309: mosquitto version 2.0.21 starting
+1746870309: Config loaded from /mosquitto/config/mosquitto.conf.
+1746870309: Opening ipv4 listen socket on port 1883.
+1746870309: mosquitto version 2.0.21 running
+1746870310: New connection from 172.26.0.1:41140 on port 1883.
+1746870310: New client connected from 172.26.0.1:41140 as 0001 (p2, c1, k60).
+1746870315: mosquitto version 2.0.21 terminating
+1746870370: mosquitto version 2.0.21 starting
+1746870370: Config loaded from /mosquitto/config/mosquitto.conf.
+1746870370: Opening ipv4 listen socket on port 1883.
+1746870370: mosquitto version 2.0.21 running
+1746870371: New connection from 172.26.0.1:57316 on port 1883.
+1746870371: New client connected from 172.26.0.1:57316 as 0001 (p2, c1, k60).
+1746870371: New connection from 172.26.0.3:45213 on port 1883.
+1746870371: New client connected from 172.26.0.3:45213 as 1 (p2, c0, k60).
+1746870381: New connection from 172.26.0.1:35568 on port 1883.
+1746870381: New client connected from 172.26.0.1:35568 as auto-8DD42999-F8DD-F042-CD06-ED8B74917332 (p2, c1, k60).
+1746870381: Client auto-8DD42999-F8DD-F042-CD06-ED8B74917332 disconnected.
+1746870381: Client 1 closed its connection.
+1746870382: New connection from 172.26.0.3:52803 on port 1883.
+1746870382: New client connected from 172.26.0.3:52803 as 1 (p2, c0, k60).
+1746870382: Client 1 closed its connection.
+1746870383: New connection from 172.26.0.3:40345 on port 1883.
+1746870383: New client connected from 172.26.0.3:40345 as 1 (p2, c0, k60).
+1746870383: Client 1 closed its connection.
+1746870384: New connection from 172.26.0.3:49913 on port 1883.
+1746870384: New client connected from 172.26.0.3:49913 as 1 (p2, c0, k60).
+1746870384: Client 1 closed its connection.
+1746870385: New connection from 172.26.0.3:34015 on port 1883.
+1746870385: New client connected from 172.26.0.3:34015 as 1 (p2, c0, k60).
+1746870386: Client 1 closed its connection.
+1746870388: New connection from 172.26.0.3:48823 on port 1883.
+1746870388: New client connected from 172.26.0.3:48823 as 1 (p2, c0, k60).
+1746870388: Client 1 closed its connection.
+1746870392: New connection from 172.26.0.3:38981 on port 1883.
+1746870392: New client connected from 172.26.0.3:38981 as 1 (p2, c0, k60).
+1746870392: Client 1 closed its connection.
+1746870399: New connection from 172.26.0.3:45109 on port 1883.
+1746870399: New client connected from 172.26.0.3:45109 as 1 (p2, c0, k60).
+1746870399: Client 1 closed its connection.
+1746870412: New connection from 172.26.0.3:48637 on port 1883.
+1746870412: New client connected from 172.26.0.3:48637 as 1 (p2, c0, k60).
+1746870412: Client 1 closed its connection.
+1746870413: mosquitto version 2.0.21 terminating
+1746870489: mosquitto version 2.0.21 starting
+1746870489: Config loaded from /mosquitto/config/mosquitto.conf.
+1746870489: Opening ipv4 listen socket on port 1883.
+1746870489: mosquitto version 2.0.21 running
+1746870489: New connection from 172.26.0.3:57557 on port 1883.
+1746870489: New client connected from 172.26.0.3:57557 as 1 (p2, c0, k60).
+1746870489: New connection from 172.26.0.1:41950 on port 1883.
+1746870489: New client connected from 172.26.0.1:41950 as 0001 (p2, c1, k60).
+1746870494: New connection from 172.26.0.1:41952 on port 1883.
+1746870494: New client connected from 172.26.0.1:41952 as auto-89F2DF82-03EE-0BB2-9C2A-7D6AE1F7ADCE (p2, c1, k60).
+1746870494: Client auto-89F2DF82-03EE-0BB2-9C2A-7D6AE1F7ADCE disconnected.
+1746870494: Client 1 closed its connection.
+1746870495: New connection from 172.26.0.3:49073 on port 1883.
+1746870495: New client connected from 172.26.0.3:49073 as 1 (p2, c0, k60).
+1746870495: Client 1 closed its connection.
+1746870496: New connection from 172.26.0.3:42211 on port 1883.
+1746870496: New client connected from 172.26.0.3:42211 as 1 (p2, c0, k60).
+1746870496: Client 1 closed its connection.
+1746870497: New connection from 172.26.0.3:60237 on port 1883.
+1746870497: New client connected from 172.26.0.3:60237 as 1 (p2, c0, k60).
+1746870497: Client 1 closed its connection.
+1746870498: New connection from 172.26.0.3:44651 on port 1883.
+1746870498: New client connected from 172.26.0.3:44651 as 1 (p2, c0, k60).
+1746870498: Client 1 closed its connection.
+1746870501: New connection from 172.26.0.3:59323 on port 1883.
+1746870501: New client connected from 172.26.0.3:59323 as 1 (p2, c0, k60).
+1746870501: Client 1 closed its connection.
+1746870505: New connection from 172.26.0.3:44271 on port 1883.
+1746870505: New client connected from 172.26.0.3:44271 as 1 (p2, c0, k60).
+1746870505: Client 1 closed its connection.
+1746870512: New connection from 172.26.0.3:43003 on port 1883.
+1746870512: New client connected from 172.26.0.3:43003 as 1 (p2, c0, k60).
+1746870512: Client 1 closed its connection.
+1746870512: mosquitto version 2.0.21 terminating
+1746870649: mosquitto version 2.0.21 starting
+1746870649: Config loaded from /mosquitto/config/mosquitto.conf.
+1746870649: Opening ipv4 listen socket on port 1883.
+1746870649: mosquitto version 2.0.21 running
+1746870650: New connection from 172.27.0.3:41555 on port 1883.
+1746870650: New client connected from 172.27.0.3:41555 as 1 (p2, c0, k60).
+1746870650: New connection from 172.27.0.1:38954 on port 1883.
+1746870650: New client connected from 172.27.0.1:38954 as 0001 (p2, c1, k60).
+1746870651: New connection from 172.27.0.1:38956 on port 1883.
+1746870651: New client connected from 172.27.0.1:38956 as auto-98F4B6A0-7CBA-2E7F-2EC1-FEA7CD8F7B08 (p2, c1, k60).
+1746870651: Client auto-98F4B6A0-7CBA-2E7F-2EC1-FEA7CD8F7B08 disconnected.
+1746870651: Client 1 closed its connection.
+1746870652: New connection from 172.27.0.3:42069 on port 1883.
+1746870652: New client connected from 172.27.0.3:42069 as 1 (p2, c0, k60).
+1746870652: Client 1 closed its connection.
+1746870653: New connection from 172.27.0.3:34807 on port 1883.
+1746870653: New client connected from 172.27.0.3:34807 as 1 (p2, c0, k60).
+1746870653: Client 1 closed its connection.
+1746870654: New connection from 172.27.0.3:41927 on port 1883.
+1746870654: New client connected from 172.27.0.3:41927 as 1 (p2, c0, k60).
+1746870654: Client 1 closed its connection.
+1746870656: New connection from 172.27.0.3:49405 on port 1883.
+1746870656: New client connected from 172.27.0.3:49405 as 1 (p2, c0, k60).
+1746870656: Client 1 closed its connection.
+1746870658: New connection from 172.27.0.3:53713 on port 1883.
+1746870658: New client connected from 172.27.0.3:53713 as 1 (p2, c0, k60).
+1746870658: Client 1 closed its connection.
+1746870661: mosquitto version 2.0.21 terminating
+1746870767: mosquitto version 2.0.21 starting
+1746870767: Config loaded from /mosquitto/config/mosquitto.conf.
+1746870767: Opening ipv4 listen socket on port 1883.
+1746870767: mosquitto version 2.0.21 running
+1746870768: New connection from 172.28.0.1:49446 on port 1883.
+1746870768: New client connected from 172.28.0.1:49446 as 0001 (p2, c1, k60).
+1746870768: New connection from 172.28.0.3:38587 on port 1883.
+1746870768: New client connected from 172.28.0.3:38587 as 1 (p2, c0, k60).
+1746870770: New connection from 172.28.0.1:49448 on port 1883.
+1746870770: New client connected from 172.28.0.1:49448 as auto-58AEAAEB-BA7A-37E8-863C-D86D9771D0B4 (p2, c1, k60).
+1746870770: Client auto-58AEAAEB-BA7A-37E8-863C-D86D9771D0B4 disconnected.
+1746870770: Client 1 closed its connection.
+1746870771: New connection from 172.28.0.3:34615 on port 1883.
+1746870771: New client connected from 172.28.0.3:34615 as 1 (p2, c0, k60).
+1746870771: Client 1 closed its connection.
+1746870772: New connection from 172.28.0.3:40515 on port 1883.
+1746870772: New client connected from 172.28.0.3:40515 as 1 (p2, c0, k60).
+1746870772: Client 1 closed its connection.
+1746870773: New connection from 172.28.0.3:37235 on port 1883.
+1746870773: New client connected from 172.28.0.3:37235 as 1 (p2, c0, k60).
+1746870773: Client 1 closed its connection.
+1746870775: New connection from 172.28.0.3:55037 on port 1883.
+1746870775: New client connected from 172.28.0.3:55037 as 1 (p2, c0, k60).
+1746870775: Client 1 closed its connection.
+1746870777: New connection from 172.28.0.3:42279 on port 1883.
+1746870777: New client connected from 172.28.0.3:42279 as 1 (p2, c0, k60).
+1746870777: Client 1 closed its connection.
+1746870777: mosquitto version 2.0.21 terminating
+1746870922: mosquitto version 2.0.21 starting
+1746870922: Config loaded from /mosquitto/config/mosquitto.conf.
+1746870922: Opening ipv4 listen socket on port 1883.
+1746870922: mosquitto version 2.0.21 running
+1746870922: New connection from 172.28.0.3:44121 on port 1883.
+1746870922: New client connected from 172.28.0.3:44121 as 1 (p2, c0, k60).
+1746870922: New connection from 172.28.0.1:49696 on port 1883.
+1746870922: New client connected from 172.28.0.1:49696 as 0001 (p2, c1, k60).
+1746870925: New connection from 172.28.0.1:56054 on port 1883.
+1746870925: New client connected from 172.28.0.1:56054 as auto-F77245E1-05B0-FC8C-4C2A-F71F99A8A0A3 (p2, c1, k60).
+1746870925: Client auto-F77245E1-05B0-FC8C-4C2A-F71F99A8A0A3 disconnected.
+1746870963: Client 1 closed its connection.
+1746871691: mosquitto version 2.0.21 starting
+1746871691: Config loaded from /mosquitto/config/mosquitto.conf.
+1746871691: Opening ipv4 listen socket on port 1883.
+1746871691: mosquitto version 2.0.21 running
+1746871692: New connection from 172.29.0.1:56448 on port 1883.
+1746871692: New client connected from 172.29.0.1:56448 as 0001 (p2, c1, k60).
+1746871692: New connection from 172.29.0.3:33691 on port 1883.
+1746871692: New client connected from 172.29.0.3:33691 as 1 (p2, c0, k60).
+1746871698: New connection from 172.29.0.1:53712 on port 1883.
+1746871698: New client connected from 172.29.0.1:53712 as auto-214ADFFD-50BD-B49E-B4D2-3F68A178F916 (p2, c1, k60).
+1746871698: Client auto-214ADFFD-50BD-B49E-B4D2-3F68A178F916 disconnected.
+1746871698: Client 1 closed its connection.
+1746871699: New connection from 172.29.0.3:39403 on port 1883.
+1746871699: New client connected from 172.29.0.3:39403 as 1 (p2, c0, k60).
+1746871699: Client 1 closed its connection.
+1746871700: New connection from 172.29.0.3:54037 on port 1883.
+1746871700: New client connected from 172.29.0.3:54037 as 1 (p2, c0, k60).
+1746871700: Client 1 closed its connection.
+1746871701: New connection from 172.29.0.3:45859 on port 1883.
+1746871701: New client connected from 172.29.0.3:45859 as 1 (p2, c0, k60).
+1746871701: Client 1 closed its connection.
+1746871702: New connection from 172.29.0.3:43623 on port 1883.
+1746871702: New client connected from 172.29.0.3:43623 as 1 (p2, c0, k60).
+1746871702: Client 1 closed its connection.
+1746871704: New connection from 172.29.0.3:50577 on port 1883.
+1746871704: New client connected from 172.29.0.3:50577 as 1 (p2, c0, k60).
+1746871704: Client 1 closed its connection.
+1746871705: New connection from 172.29.0.1:54848 on port 1883.
+1746871705: New client connected from 172.29.0.1:54848 as auto-AF2AAAB7-3B71-3741-DAA0-5968E2B8AA6E (p2, c1, k60).
+1746871705: Client auto-AF2AAAB7-3B71-3741-DAA0-5968E2B8AA6E disconnected.
+1746871708: New connection from 172.29.0.3:45933 on port 1883.
+1746871708: New client connected from 172.29.0.3:45933 as 1 (p2, c0, k60).
+1746871708: Client 1 closed its connection.
+1746871715: New connection from 172.29.0.3:59201 on port 1883.
+1746871715: New client connected from 172.29.0.3:59201 as 1 (p2, c0, k60).
+1746871715: Client 1 closed its connection.
+1746871723: New connection from 172.29.0.1:46388 on port 1883.
+1746871723: New client connected from 172.29.0.1:46388 as auto-0A9D09A1-29C0-67FA-64EA-0FFACE86031D (p2, c1, k60).
+1746871723: Client auto-0A9D09A1-29C0-67FA-64EA-0FFACE86031D disconnected.
+1746871729: New connection from 172.29.0.3:50935 on port 1883.
+1746871729: New client connected from 172.29.0.3:50935 as 1 (p2, c0, k60).
+1746871729: Client 1 closed its connection.
+1746871729: mosquitto version 2.0.21 terminating
+1746872008: mosquitto version 2.0.21 starting
+1746872008: Config loaded from /mosquitto/config/mosquitto.conf.
+1746872008: Opening ipv4 listen socket on port 1883.
+1746872008: mosquitto version 2.0.21 running
+1746872008: New connection from 172.30.0.3:52513 on port 1883.
+1746872008: New client connected from 172.30.0.3:52513 as 1 (p2, c0, k60).
+1746872013: New connection from 172.30.0.1:49338 on port 1883.
+1746872013: New client connected from 172.30.0.1:49338 as auto-76A62361-BADB-F96E-621D-479C0149DF1E (p2, c1, k60).
+1746872013: Client auto-76A62361-BADB-F96E-621D-479C0149DF1E disconnected.
+1746872013: Client 1 closed its connection.
+1746872014: New connection from 172.30.0.3:38333 on port 1883.
+1746872014: New client connected from 172.30.0.3:38333 as 1 (p2, c0, k60).
+1746872014: Client 1 closed its connection.
+1746872015: New connection from 172.30.0.3:33719 on port 1883.
+1746872015: New client connected from 172.30.0.3:33719 as 1 (p2, c0, k60).
+1746872015: Client 1 closed its connection.
+1746872016: New connection from 172.30.0.3:47423 on port 1883.
+1746872016: New client connected from 172.30.0.3:47423 as 1 (p2, c0, k60).
+1746872016: Client 1 closed its connection.
+1746872017: New connection from 172.30.0.3:54121 on port 1883.
+1746872017: New client connected from 172.30.0.3:54121 as 1 (p2, c0, k60).
+1746872017: Client 1 closed its connection.
+1746872020: New connection from 172.30.0.3:38077 on port 1883.
+1746872020: New client connected from 172.30.0.3:38077 as 1 (p2, c0, k60).
+1746872020: Client 1 closed its connection.
+1746872023: New connection from 172.30.0.3:54707 on port 1883.
+1746872023: New client connected from 172.30.0.3:54707 as 1 (p2, c0, k60).
+1746872023: Client 1 closed its connection.
+1746872030: New connection from 172.30.0.3:39757 on port 1883.
+1746872030: New client connected from 172.30.0.3:39757 as 1 (p2, c0, k60).
+1746872030: Client 1 closed its connection.
+1746872044: New connection from 172.30.0.3:57911 on port 1883.
+1746872044: New client connected from 172.30.0.3:57911 as 1 (p2, c0, k60).
+1746872044: Client 1 closed its connection.
+1746872070: New connection from 172.30.0.3:53141 on port 1883.
+1746872070: New client connected from 172.30.0.3:53141 as 1 (p2, c0, k60).
+1746872070: Client 1 closed its connection.
+1746872122: New connection from 172.30.0.3:38127 on port 1883.
+1746872122: New client connected from 172.30.0.3:38127 as 1 (p2, c0, k60).
+1746872122: Client 1 closed its connection.
+1746872183: New connection from 172.30.0.3:34859 on port 1883.
+1746872183: New client connected from 172.30.0.3:34859 as 1 (p2, c0, k60).
+1746872183: Client 1 closed its connection.
+1746872244: New connection from 172.30.0.3:60341 on port 1883.
+1746872244: New client connected from 172.30.0.3:60341 as 1 (p2, c0, k60).
+1746872244: Client 1 closed its connection.
+1746872305: New connection from 172.30.0.3:40755 on port 1883.
+1746872305: New client connected from 172.30.0.3:40755 as 1 (p2, c0, k60).
+1746872305: Client 1 closed its connection.
+1746872365: New connection from 172.30.0.3:35175 on port 1883.
+1746872365: New client connected from 172.30.0.3:35175 as 1 (p2, c0, k60).
+1746872365: Client 1 closed its connection.
+1746872426: New connection from 172.30.0.3:56341 on port 1883.
+1746872426: New client connected from 172.30.0.3:56341 as 1 (p2, c0, k60).
+1746872426: Client 1 closed its connection.
+1746872435: mosquitto version 2.0.21 terminating
+1746872550: mosquitto version 2.0.21 starting
+1746872550: Config loaded from /mosquitto/config/mosquitto.conf.
+1746872550: Opening ipv4 listen socket on port 1883.
+1746872550: mosquitto version 2.0.21 running
+1746872551: New connection from 172.31.0.3:49581 on port 1883.
+1746872551: New client connected from 172.31.0.3:49581 as 1 (p2, c0, k60).
+1746872553: New connection from 172.31.0.1:56022 on port 1883.
+1746872553: New client connected from 172.31.0.1:56022 as auto-269B92F0-9EC7-B33C-582F-1D90DB03E235 (p2, c1, k60).
+1746872553: Client auto-269B92F0-9EC7-B33C-582F-1D90DB03E235 disconnected.
+1746872564: New connection from 172.31.0.1:60678 on port 1883.
+1746872564: New client connected from 172.31.0.1:60678 as auto-6FEB19D9-076D-C216-DDDC-301154D16821 (p2, c1, k60).
+1746872564: Client auto-6FEB19D9-076D-C216-DDDC-301154D16821 disconnected.
+1746872931: New connection from 172.31.0.1:33466 on port 1883.
+1746872931: New client connected from 172.31.0.1:33466 as auto-4F4B4692-8DE1-A5E8-1BFD-E02B5BB78021 (p2, c1, k60).
+1746872931: Client auto-4F4B4692-8DE1-A5E8-1BFD-E02B5BB78021 disconnected.
+1746872947: Client 1 closed its connection.
+1746872958: mosquitto version 2.0.21 terminating
+1746872962: mosquitto version 2.0.21 starting
+1746872962: Config loaded from /mosquitto/config/mosquitto.conf.
+1746872962: Opening ipv4 listen socket on port 1883.
+1746872962: mosquitto version 2.0.21 running
+1746872963: New connection from 172.31.0.3:46367 on port 1883.
+1746872963: New client connected from 172.31.0.3:46367 as 1 (p2, c0, k60).
+1747030646: mosquitto version 2.0.21 starting
+1747030646: Config loaded from /mosquitto/config/mosquitto.conf.
+1747030646: Opening ipv4 listen socket on port 1883.
+1747030646: mosquitto version 2.0.21 running
+1747030647: New connection from 172.31.0.2:32831 on port 1883.
+1747030647: New client connected from 172.31.0.2:32831 as 1 (p2, c0, k60).
+1747030785: New connection from 172.31.0.1:41060 on port 1883.
+1747030785: New client connected from 172.31.0.1:41060 as auto-583F2EDB-D91C-02B0-B468-9455FF57479A (p2, c1, k60).
+1747030785: Client auto-583F2EDB-D91C-02B0-B468-9455FF57479A disconnected.
+1747045685: mosquitto version 2.0.21 starting
+1747045685: Config loaded from /mosquitto/config/mosquitto.conf.
+1747045685: Opening ipv4 listen socket on port 1883.
+1747045685: mosquitto version 2.0.21 running
+1747045686: New connection from 172.31.0.2:41921 on port 1883.
+1747045686: New client connected from 172.31.0.2:41921 as 1 (p2, c0, k60).
+1747050780: New connection from 192.168.56.1:55302 on port 1883.
+1747050780: New client connected from 192.168.56.1:55302 as registration_client (p2, c0, k60).
+1747050828: New connection from 172.31.0.1:44568 on port 1883.
+1747050828: New client connected from 172.31.0.1:44568 as auto-B919DFA2-C508-1E66-79A7-7B4BDE907192 (p2, c1, k60).
+1747050828: Client auto-B919DFA2-C508-1E66-79A7-7B4BDE907192 disconnected.
+1747050858: Client registration_client closed its connection.
+1747052933: Client 1 has exceeded timeout, disconnecting.
+1747052935: New connection from 172.31.0.2:40715 on port 1883.
+1747052935: New client connected from 172.31.0.2:40715 as 1 (p2, c0, k60).
+1747055344: Client 1 has exceeded timeout, disconnecting.
+1747055349: New connection from 172.31.0.2:59309 on port 1883.
+1747055349: New client connected from 172.31.0.2:59309 as 1 (p2, c0, k60).
+1747117529: Client 1 has exceeded timeout, disconnecting.
+1747117531: New connection from 172.31.0.2:45065 on port 1883.
+1747117531: New client connected from 172.31.0.2:45065 as 1 (p2, c0, k60).
+1747118361: mosquitto version 2.0.21 starting
+1747118361: Config loaded from /mosquitto/config/mosquitto.conf.
+1747118361: Opening ipv4 listen socket on port 1883.
+1747118361: mosquitto version 2.0.21 running
+1747118362: New connection from 172.31.0.3:32947 on port 1883.
+1747118362: New client connected from 172.31.0.3:32947 as 1 (p2, c0, k60).
+1747120669: Client 1 has exceeded timeout, disconnecting.
+1747120671: New connection from 172.31.0.3:60851 on port 1883.
+1747120671: New client connected from 172.31.0.3:60851 as 1 (p2, c0, k60).
+1747123856: Client 1 has exceeded timeout, disconnecting.
+                                                                                                                                          1747396393: mosquitto version 2.0.21 starting
+1747396393: Config loaded from /mosquitto/config/mosquitto.conf.
+1747396393: Opening ipv4 listen socket on port 1883.
+1747396393: mosquitto version 2.0.21 running
+1747396393: New connection from 172.31.0.3:39819 on port 1883.
+1747396393: New client connected from 172.31.0.3:39819 as 1 (p2, c0, k60).
+1749281441: mosquitto version 2.0.21 starting
+1749281441: Config loaded from /mosquitto/config/mosquitto.conf.
+1749281441: Opening ipv4 listen socket on port 1883.
+1749281441: mosquitto version 2.0.21 running
+1749281442: New connection from 172.31.0.3:40489 on port 1883.
+1749281442: New client connected from 172.31.0.3:40489 as 1 (p2, c0, k60).
+1749281497: New connection from 192.168.56.1:50936 on port 1883.
+1749281497: New client connected from 192.168.56.1:50936 as registration_client (p2, c0, k60).
+1749281751: New connection from 172.31.0.1:58338 on port 1883.
+1749281751: New client connected from 172.31.0.1:58338 as auto-6AFEDC76-FDBC-B6ED-C33A-2419CBE848E2 (p2, c1, k60).
+1749281751: Client auto-6AFEDC76-FDBC-B6ED-C33A-2419CBE848E2 disconnected.
+1749281810: Client registration_client closed its connection.
+1749289317: New connection from 192.168.56.1:52228 on port 1883.
+1749289317: New client connected from 192.168.56.1:52228 as 169 (p2, c0, k60).
+1749289640: New connection from 172.31.0.1:53732 on port 1883.
+1749289640: New client connected from 172.31.0.1:53732 as auto-E6BDA604-A59A-BC78-E496-F7477BF4DACD (p2, c1, k60).
+1749289640: Client auto-E6BDA604-A59A-BC78-E496-F7477BF4DACD disconnected.
+1749289663: Client 169 closed its connection.
+1749290335: New connection from 192.168.56.1:52365 on port 1883.
+1749290335: New client connected from 192.168.56.1:52365 as 169 (p2, c0, k60).
+1749290344: New connection from 172.31.0.1:43872 on port 1883.
+1749290344: New client connected from 172.31.0.1:43872 as auto-71ED5F9B-3050-468D-C712-52ADA62A51A4 (p2, c1, k60).
+1749290344: Client auto-71ED5F9B-3050-468D-C712-52ADA62A51A4 disconnected.
+1749290712: Client 169 closed its connection.
+1749635156: mosquitto version 2.0.21 starting
+1749635156: Config loaded from /mosquitto/config/mosquitto.conf.
+1749635156: Opening ipv4 listen socket on port 1883.
+1749635156: mosquitto version 2.0.21 running
+1749635157: New connection from 172.18.0.3:55581 on port 1883.
+1749635157: New client connected from 172.18.0.3:55581 as 142 (p2, c0, k60).
+1749635157: New connection from 172.18.0.4:47389 on port 1883.
+1749635157: New client connected from 172.18.0.4:47389 as 169 (p2, c0, k60).
+1749635226: mosquitto version 2.0.21 terminating
+1749635229: mosquitto version 2.0.21 starting
+1749635229: Config loaded from /mosquitto/config/mosquitto.conf.
+1749635229: Opening ipv4 listen socket on port 1883.
+1749635229: mosquitto version 2.0.21 running
+1749635230: New connection from 172.18.0.4:55121 on port 1883.
+1749635230: New client connected from 172.18.0.4:55121 as 142 (p2, c0, k60).
+1749635230: New connection from 172.18.0.2:55427 on port 1883.
+1749635230: New client connected from 172.18.0.2:55427 as 169 (p2, c0, k60).
+1749635313: New connection from 172.18.0.1:41544 on port 1883.
+1749635313: New client connected from 172.18.0.1:41544 as auto-EEB46DA9-ED03-4DB5-F063-AA49A6EEDE81 (p2, c1, k60).
+1749635313: Client auto-EEB46DA9-ED03-4DB5-F063-AA49A6EEDE81 disconnected.
+1749635377: mosquitto version 2.0.21 terminating
+1749635378: mosquitto version 2.0.21 starting
+1749635378: Config loaded from /mosquitto/config/mosquitto.conf.
+1749635378: Opening ipv4 listen socket on port 1883.
+1749635378: mosquitto version 2.0.21 running
+1749635379: New connection from 172.18.0.2:53751 on port 1883.
+1749635379: New client connected from 172.18.0.2:53751 as 142 (p2, c0, k60).
+1749635379: New connection from 172.18.0.4:49885 on port 1883.
+1749635379: New client connected from 172.18.0.4:49885 as 169 (p2, c0, k60).
+1749636573: Client 169 has exceeded timeout, disconnecting.
+1749636573: Client 142 has exceeded timeout, disconnecting.
+1749636574: New connection from 172.18.0.2:57509 on port 1883.
+1749636574: New client connected from 172.18.0.2:57509 as 169 (p2, c0, k60).
+1749636574: New connection from 172.18.0.4:57569 on port 1883.
+1749636574: New client connected from 172.18.0.4:57569 as 142 (p2, c0, k60).
+1749637031: Client 169 has exceeded timeout, disconnecting.
+1749637031: Client 142 has exceeded timeout, disconnecting.
+1749637033: New connection from 172.18.0.2:36079 on port 1883.
+1749637033: New client connected from 172.18.0.2:36079 as 142 (p2, c0, k60).
+1749637033: New connection from 172.18.0.4:40035 on port 1883.
+1749637033: New client connected from 172.18.0.4:40035 as 169 (p2, c0, k60).
+1749638728: mosquitto version 2.0.21 starting
+1749638728: Config loaded from /mosquitto/config/mosquitto.conf.
+1749638728: Opening ipv4 listen socket on port 1883.
+1749638728: mosquitto version 2.0.21 running
+1749638729: New connection from 172.18.0.3:49447 on port 1883.
+1749638729: New connection from 172.18.0.4:54685 on port 1883.
+1749638729: New client connected from 172.18.0.4:54685 as 142 (p2, c0, k60).
+1749638729: New client connected from 172.18.0.3:49447 as 169 (p2, c0, k60).
+1749638986: mosquitto version 2.0.21 starting
+1749638986: Config loaded from /mosquitto/config/mosquitto.conf.
+1749638986: Opening ipv4 listen socket on port 1883.
+1749638986: mosquitto version 2.0.21 running
+1749638987: New connection from 172.18.0.3:37831 on port 1883.
+1749638987: New connection from 172.18.0.2:47319 on port 1883.
+1749638987: New client connected from 172.18.0.3:37831 as 169 (p2, c0, k60).
+1749638987: New client connected from 172.18.0.2:47319 as 142 (p2, c0, k60).
+1749639805: Client 169 closed its connection.
+1749639805: Client 142 closed its connection.
+1749639805: mosquitto version 2.0.21 terminating
+1749639818: mosquitto version 2.0.21 starting
+1749639818: Config loaded from /mosquitto/config/mosquitto.conf.
+1749639818: Opening ipv4 listen socket on port 1883.
+1749639818: mosquitto version 2.0.21 running
+1749639818: New connection from 172.18.0.3:53113 on port 1883.
+1749639818: New client connected from 172.18.0.3:53113 as 142 (p2, c0, k60).
+1749639818: New connection from 172.18.0.4:48913 on port 1883.
+1749639818: New client connected from 172.18.0.4:48913 as 169 (p2, c0, k60).
+1749639873: New connection from 192.168.56.1:48702 on port 1883.
+1749639878: Client <unknown> closed its connection.
+1749639898: New connection from 192.168.56.1:48732 on port 1883.
+1749639898: Client 142 already connected, closing old connection.
+1749639898: New client connected from 192.168.56.1:48732 as 142 (p2, c0, k60).
+1749639899: New connection from 172.18.0.3:40783 on port 1883.
+1749639899: Client 142 already connected, closing old connection.
+1749639899: New client connected from 172.18.0.3:40783 as 142 (p2, c0, k60).
+1749640005: New connection from 192.168.56.1:48751 on port 1883.
+1749640005: New client connected from 192.168.56.1:48751 as registration_client (p2, c0, k60).
+1749640082: New connection from 192.168.56.102:57576 on port 1883.
+1749640082: New client connected from 192.168.56.102:57576 as auto-565E5239-3C95-B809-3230-3EEFE682FC0B (p2, c1, k60).
+1749640082: Client auto-565E5239-3C95-B809-3230-3EEFE682FC0B disconnected.
+1749640100: Client registration_client closed its connection.
+1749640129: New connection from 192.168.56.1:48770 on port 1883.
+1749640129: Client 142 already connected, closing old connection.
+1749640129: New client connected from 192.168.56.1:48770 as 142 (p2, c0, k60).
+1749640130: New connection from 172.18.0.3:57763 on port 1883.
+1749640130: Client 142 already connected, closing old connection.
+1749640130: New client connected from 172.18.0.3:57763 as 142 (p2, c0, k60).
+1749640204: New connection from 192.168.56.1:48792 on port 1883.
+1749640204: Client 142 already connected, closing old connection.
+1749640204: New client connected from 192.168.56.1:48792 as 142 (p2, c0, k60).
+1749640205: New connection from 172.18.0.3:40521 on port 1883.
+1749640205: Client 142 already connected, closing old connection.
+1749640205: New client connected from 172.18.0.3:40521 as 142 (p2, c0, k60).
+1749640205: New connection from 192.168.56.1:48794 on port 1883.
+1749640206: Client <unknown> closed its connection.
+1749640206: New connection from 192.168.56.1:48796 on port 1883.
+1749640206: Client 142 already connected, closing old connection.
+1749640206: New client connected from 192.168.56.1:48796 as 142 (p2, c0, k60).
+1749640207: New connection from 172.18.0.3:46065 on port 1883.
+1749640207: Client 142 already connected, closing old connection.
+1749640207: New client connected from 172.18.0.3:46065 as 142 (p2, c0, k60).
+1749640207: New connection from 192.168.56.1:48797 on port 1883.
+1749640208: Client <unknown> closed its connection.
+1749640208: New connection from 192.168.56.1:48798 on port 1883.
+1749640208: Client 142 already connected, closing old connection.
+1749640208: New client connected from 192.168.56.1:48798 as 142 (p2, c0, k60).
+1749640209: New connection from 172.18.0.3:33279 on port 1883.
+1749640209: Client 142 already connected, closing old connection.
+1749640209: New client connected from 172.18.0.3:33279 as 142 (p2, c0, k60).
+1749640209: New connection from 192.168.56.1:48799 on port 1883.
+1749640210: Client <unknown> closed its connection.
+1749640210: New connection from 192.168.56.1:48800 on port 1883.
+1749640210: Client 142 already connected, closing old connection.
+1749640210: New client connected from 192.168.56.1:48800 as 142 (p2, c0, k60).
+1749640212: New connection from 172.18.0.3:60555 on port 1883.
+1749640212: Client 142 already connected, closing old connection.
+1749640212: New client connected from 172.18.0.3:60555 as 142 (p2, c0, k60).
+1749640212: New connection from 192.168.56.1:48803 on port 1883.
+1749640213: Client <unknown> closed its connection.
+1749640213: New connection from 192.168.56.1:48804 on port 1883.
+1749640213: Client 142 already connected, closing old connection.
+1749640213: New client connected from 192.168.56.1:48804 as 142 (p2, c0, k60).
+1749640215: New connection from 172.18.0.3:38981 on port 1883.
+1749640215: Client 142 already connected, closing old connection.
+1749640215: New client connected from 172.18.0.3:38981 as 142 (p2, c0, k60).
+1749640215: New connection from 192.168.56.1:48805 on port 1883.
+1749640215: Client <unknown> closed its connection.
+1749640389: New connection from 192.168.56.1:48970 on port 1883.
+1749640389: New client connected from 192.168.56.1:48970 as 306 (p2, c0, k60).
+1749640403: New connection from 192.168.56.102:47384 on port 1883.
+1749640403: New client connected from 192.168.56.102:47384 as auto-397EBBEE-9062-D137-01EB-F847529F30E6 (p2, c1, k60).
+1749640403: Client auto-397EBBEE-9062-D137-01EB-F847529F30E6 disconnected.
+1749640438: Client 306 closed its connection.
+1749640445: New connection from 192.168.56.1:49029 on port 1883.
+1749640445: New client connected from 192.168.56.1:49029 as 306 (p2, c0, k60).
+1749640470: New connection from 192.168.56.102:60884 on port 1883.
+1749640470: New client connected from 192.168.56.102:60884 as auto-79C20068-8D87-14E7-04B6-C795E4F9A4A6 (p2, c1, k60).
+1749640470: Client auto-79C20068-8D87-14E7-04B6-C795E4F9A4A6 disconnected.
+1749642513: Client 306 closed its connection.
+1749647175: Client 142 has exceeded timeout, disconnecting.
+1749647175: Client 169 has exceeded timeout, disconnecting.
+1749647177: New connection from 172.18.0.3:45875 on port 1883.
+1749647177: New connection from 172.18.0.4:37865 on port 1883.
+1749647177: New client connected from 172.18.0.3:45875 as 142 (p2, c0, k60).
+1749647177: New client connected from 172.18.0.4:37865 as 169 (p2, c0, k60).
+1749647336: Client 142 closed its connection.
+1749647336: Client 169 closed its connection.
+1749647337: mosquitto version 2.0.21 terminating
+1749647347: mosquitto version 2.0.21 starting
+1749647347: Config loaded from /mosquitto/config/mosquitto.conf.
+1749647347: Opening ipv4 listen socket on port 1883.
+1749647347: mosquitto version 2.0.21 running
+1749647348: New connection from 172.19.0.3:50977 on port 1883.
+1749647348: New client connected from 172.19.0.3:50977 as 169 (p2, c0, k60).
+1749647348: New connection from 172.19.0.4:44361 on port 1883.
+1749647348: New client connected from 172.19.0.4:44361 as 142 (p2, c0, k60).
+1749647480: Client 142 closed its connection.
+1749647480: Client 169 closed its connection.
+1749647481: mosquitto version 2.0.21 terminating
+1749647722: mosquitto version 2.0.21 starting
+1749647722: Config loaded from /mosquitto/config/mosquitto.conf.
+1749647722: Opening ipv4 listen socket on port 1883.
+1749647722: mosquitto version 2.0.21 running
+1749647724: New connection from 172.18.0.4:41079 on port 1883.
+1749647724: New connection from 172.18.0.3:39159 on port 1883.
+1749647724: New client connected from 172.18.0.4:41079 as 169 (p2, c0, k60).
+1749647724: New client connected from 172.18.0.3:39159 as 142 (p2, c0, k60).
+1749647740: New connection from 192.168.178.160:50671 on port 1883.
+1749647742: Client <unknown> closed its connection.
+1749647761: New connection from 192.168.178.160:50673 on port 1883.
+1749647761: New client connected from 192.168.178.160:50673 as 306 (p2, c0, k60).
+1749647764: Client 306 closed its connection.
+1749647873: New connection from 192.168.178.162:33122 on port 1883.
+1749647873: New client connected from 192.168.178.162:33122 as auto-3C7A303D-1000-0EA0-A590-B75CDC85BA82 (p2, c1, k60).
+1749648086: New connection from 192.168.178.146:62762 on port 1883.
+1749648086: New client connected from 192.168.178.146:62762 as ArduinoClient (p2, c1, k15).
+1749648092: New connection from 192.168.178.146:57558 on port 1883.
+1749648092: Client ArduinoClient already connected, closing old connection.
+1749648092: New client connected from 192.168.178.146:57558 as ArduinoClient (p2, c1, k15).
+1749648099: New connection from 192.168.178.146:57376 on port 1883.
+1749648099: Client ArduinoClient already connected, closing old connection.
+1749648099: New client connected from 192.168.178.146:57376 as ArduinoClient (p2, c1, k15).
+1749648106: New connection from 192.168.178.146:53708 on port 1883.
+1749648106: Client ArduinoClient already connected, closing old connection.
+1749648106: New client connected from 192.168.178.146:53708 as ArduinoClient (p2, c1, k15).
+1749648113: New connection from 192.168.178.146:58575 on port 1883.
+1749648113: Client ArduinoClient already connected, closing old connection.
+1749648113: New client connected from 192.168.178.146:58575 as ArduinoClient (p2, c1, k15).
+1749648119: New connection from 192.168.178.146:61082 on port 1883.
+1749648119: Client ArduinoClient already connected, closing old connection.
+1749648119: New client connected from 192.168.178.146:61082 as ArduinoClient (p2, c1, k15).
+1749648126: New connection from 192.168.178.146:61620 on port 1883.
+1749648126: Client ArduinoClient already connected, closing old connection.
+1749648126: New client connected from 192.168.178.146:61620 as ArduinoClient (p2, c1, k15).
+1749648132: New connection from 192.168.178.146:60393 on port 1883.
+1749648132: Client ArduinoClient already connected, closing old connection.
+1749648132: New client connected from 192.168.178.146:60393 as ArduinoClient (p2, c1, k15).
+1749648139: New connection from 192.168.178.146:53032 on port 1883.
+1749648139: Client ArduinoClient already connected, closing old connection.
+1749648139: New client connected from 192.168.178.146:53032 as ArduinoClient (p2, c1, k15).
+1749648148: Client ArduinoClient closed its connection.
+1749648148: New connection from 192.168.178.146:57449 on port 1883.
+1749648148: New client connected from 192.168.178.146:57449 as ArduinoClient (p2, c1, k15).
+1749648157: New connection from 192.168.178.146:53044 on port 1883.
+1749648157: Client ArduinoClient already connected, closing old connection.
+1749648157: New client connected from 192.168.178.146:53044 as ArduinoClient (p2, c1, k15).
+1749648164: Client ArduinoClient closed its connection.
+1749648164: New connection from 192.168.178.146:53521 on port 1883.
+1749648164: New client connected from 192.168.178.146:53521 as ArduinoClient (p2, c1, k15).
+1749648171: New connection from 192.168.178.146:62726 on port 1883.
+1749648171: Client ArduinoClient already connected, closing old connection.
+1749648171: New client connected from 192.168.178.146:62726 as ArduinoClient (p2, c1, k15).
+1749648177: New connection from 192.168.178.146:56102 on port 1883.
+1749648177: Client ArduinoClient already connected, closing old connection.
+1749648177: New client connected from 192.168.178.146:56102 as ArduinoClient (p2, c1, k15).
+1749648184: New connection from 192.168.178.146:57334 on port 1883.
+1749648184: Client ArduinoClient already connected, closing old connection.
+1749648184: New client connected from 192.168.178.146:57334 as ArduinoClient (p2, c1, k15).
+1749648191: New connection from 192.168.178.146:59436 on port 1883.
+1749648191: Client ArduinoClient already connected, closing old connection.
+1749648191: New client connected from 192.168.178.146:59436 as ArduinoClient (p2, c1, k15).
+1749648197: New connection from 192.168.178.146:49520 on port 1883.
+1749648197: Client ArduinoClient already connected, closing old connection.
+1749648197: New client connected from 192.168.178.146:49520 as ArduinoClient (p2, c1, k15).
+1749648204: New connection from 192.168.178.146:64296 on port 1883.
+1749648204: Client ArduinoClient already connected, closing old connection.
+1749648204: New client connected from 192.168.178.146:64296 as ArduinoClient (p2, c1, k15).
+1749648211: New connection from 192.168.178.146:54886 on port 1883.
+1749648211: Client ArduinoClient already connected, closing old connection.
+1749648211: New client connected from 192.168.178.146:54886 as ArduinoClient (p2, c1, k15).
+1749648217: New connection from 192.168.178.146:63681 on port 1883.
+1749648217: Client ArduinoClient already connected, closing old connection.
+1749648217: New client connected from 192.168.178.146:63681 as ArduinoClient (p2, c1, k15).
+1749648224: New connection from 192.168.178.146:64002 on port 1883.
+1749648224: Client ArduinoClient already connected, closing old connection.
+1749648224: New client connected from 192.168.178.146:64002 as ArduinoClient (p2, c1, k15).
+1749648231: New connection from 192.168.178.146:50514 on port 1883.
+1749648231: Client ArduinoClient already connected, closing old connection.
+1749648231: New client connected from 192.168.178.146:50514 as ArduinoClient (p2, c1, k15).
+1749648237: New connection from 192.168.178.146:50085 on port 1883.
+1749648237: Client ArduinoClient already connected, closing old connection.
+1749648237: New client connected from 192.168.178.146:50085 as ArduinoClient (p2, c1, k15).
+1749648244: New connection from 192.168.178.146:61459 on port 1883.
+1749648244: Client ArduinoClient already connected, closing old connection.
+1749648244: New client connected from 192.168.178.146:61459 as ArduinoClient (p2, c1, k15).
+1749648252: New connection from 192.168.178.146:64411 on port 1883.
+1749648252: Client ArduinoClient already connected, closing old connection.
+1749648252: New client connected from 192.168.178.146:64411 as ArduinoClient (p2, c1, k15).
+1749648259: New connection from 192.168.178.146:60384 on port 1883.
+1749648259: Client ArduinoClient already connected, closing old connection.
+1749648259: New client connected from 192.168.178.146:60384 as ArduinoClient (p2, c1, k15).
+1749648266: New connection from 192.168.178.146:53202 on port 1883.
+1749648266: Client ArduinoClient already connected, closing old connection.
+1749648266: New client connected from 192.168.178.146:53202 as ArduinoClient (p2, c1, k15).
+1749648272: New connection from 192.168.178.146:64219 on port 1883.
+1749648272: Client ArduinoClient already connected, closing old connection.
+1749648272: New client connected from 192.168.178.146:64219 as ArduinoClient (p2, c1, k15).
+1749648279: New connection from 192.168.178.146:49219 on port 1883.
+1749648279: Client ArduinoClient already connected, closing old connection.
+1749648279: New client connected from 192.168.178.146:49219 as ArduinoClient (p2, c1, k15).
+1749648286: New connection from 192.168.178.146:61024 on port 1883.
+1749648286: Client ArduinoClient already connected, closing old connection.
+1749648286: New client connected from 192.168.178.146:61024 as ArduinoClient (p2, c1, k15).
+1749648292: New connection from 192.168.178.146:56274 on port 1883.
+1749648292: Client ArduinoClient already connected, closing old connection.
+1749648292: New client connected from 192.168.178.146:56274 as ArduinoClient (p2, c1, k15).
+1749648299: New connection from 192.168.178.146:59421 on port 1883.
+1749648299: Client ArduinoClient already connected, closing old connection.
+1749648299: New client connected from 192.168.178.146:59421 as ArduinoClient (p2, c1, k15).
+1749648306: New connection from 192.168.178.146:61618 on port 1883.
+1749648306: Client ArduinoClient already connected, closing old connection.
+1749648306: New client connected from 192.168.178.146:61618 as ArduinoClient (p2, c1, k15).
+1749648312: New connection from 192.168.178.146:58048 on port 1883.
+1749648312: Client ArduinoClient already connected, closing old connection.
+1749648312: New client connected from 192.168.178.146:58048 as ArduinoClient (p2, c1, k15).
+1749648319: New connection from 192.168.178.146:49747 on port 1883.
+1749648319: Client ArduinoClient already connected, closing old connection.
+1749648319: New client connected from 192.168.178.146:49747 as ArduinoClient (p2, c1, k15).
+1749648326: New connection from 192.168.178.146:54390 on port 1883.
+1749648326: Client ArduinoClient already connected, closing old connection.
+1749648326: New client connected from 192.168.178.146:54390 as ArduinoClient (p2, c1, k15).
+1749648332: New connection from 192.168.178.146:62475 on port 1883.
+1749648332: Client ArduinoClient already connected, closing old connection.
+1749648332: New client connected from 192.168.178.146:62475 as ArduinoClient (p2, c1, k15).
+1749648339: New connection from 192.168.178.146:56746 on port 1883.
+1749648339: Client ArduinoClient already connected, closing old connection.
+1749648339: New client connected from 192.168.178.146:56746 as ArduinoClient (p2, c1, k15).
+1749648346: New connection from 192.168.178.146:62329 on port 1883.
+1749648346: Client ArduinoClient already connected, closing old connection.
+1749648346: New client connected from 192.168.178.146:62329 as ArduinoClient (p2, c1, k15).
+1749648361: New connection from 192.168.178.146:63110 on port 1883.
+1749648361: Client ArduinoClient already connected, closing old connection.
+1749648361: New client connected from 192.168.178.146:63110 as ArduinoClient (p2, c1, k15).
+1749648367: New connection from 192.168.178.146:62687 on port 1883.
+1749648367: Client ArduinoClient already connected, closing old connection.
+1749648367: New client connected from 192.168.178.146:62687 as ArduinoClient (p2, c1, k15).
+1749648374: New connection from 192.168.178.146:58480 on port 1883.
+1749648374: Client ArduinoClient already connected, closing old connection.
+1749648374: New client connected from 192.168.178.146:58480 as ArduinoClient (p2, c1, k15).
+1749648381: New connection from 192.168.178.146:64799 on port 1883.
+1749648381: Client ArduinoClient already connected, closing old connection.
+1749648381: New client connected from 192.168.178.146:64799 as ArduinoClient (p2, c1, k15).
+1749648388: New connection from 192.168.178.146:59789 on port 1883.
+1749648388: Client ArduinoClient already connected, closing old connection.
+1749648388: New client connected from 192.168.178.146:59789 as ArduinoClient (p2, c1, k15).
+1749648395: Client ArduinoClient closed its connection.
+1749648395: New connection from 192.168.178.146:64549 on port 1883.
+1749648395: New client connected from 192.168.178.146:64549 as ArduinoClient (p2, c1, k15).
+1749648402: New connection from 192.168.178.146:53957 on port 1883.
+1749648402: Client ArduinoClient already connected, closing old connection.
+1749648402: New client connected from 192.168.178.146:53957 as ArduinoClient (p2, c1, k15).
+1749648409: New connection from 192.168.178.146:54660 on port 1883.
+1749648409: Client ArduinoClient already connected, closing old connection.
+1749648409: New client connected from 192.168.178.146:54660 as ArduinoClient (p2, c1, k15).
+1749648416: New connection from 192.168.178.146:63004 on port 1883.
+1749648416: Client ArduinoClient already connected, closing old connection.
+1749648416: New client connected from 192.168.178.146:63004 as ArduinoClient (p2, c1, k15).
+1749648428: New connection from 192.168.178.146:55286 on port 1883.
+1749648428: Client ArduinoClient already connected, closing old connection.
+1749648428: New client connected from 192.168.178.146:55286 as ArduinoClient (p2, c1, k15).
+1749648435: New connection from 192.168.178.146:63828 on port 1883.
+1749648435: Client ArduinoClient already connected, closing old connection.
+1749648435: New client connected from 192.168.178.146:63828 as ArduinoClient (p2, c1, k15).
+1749648442: New connection from 192.168.178.146:50463 on port 1883.
+1749648442: Client ArduinoClient already connected, closing old connection.
+1749648442: New client connected from 192.168.178.146:50463 as ArduinoClient (p2, c1, k15).
+1749648448: New connection from 192.168.178.146:58306 on port 1883.
+1749648448: Client ArduinoClient already connected, closing old connection.
+1749648448: New client connected from 192.168.178.146:58306 as ArduinoClient (p2, c1, k15).
+1749648455: New connection from 192.168.178.146:55593 on port 1883.
+1749648455: Client ArduinoClient already connected, closing old connection.
+1749648455: New client connected from 192.168.178.146:55593 as ArduinoClient (p2, c1, k15).
+1749648462: New connection from 192.168.178.146:51054 on port 1883.
+1749648462: Client ArduinoClient already connected, closing old connection.
+1749648462: New client connected from 192.168.178.146:51054 as ArduinoClient (p2, c1, k15).
+1749648468: New connection from 192.168.178.146:58447 on port 1883.
+1749648468: Client ArduinoClient already connected, closing old connection.
+1749648468: New client connected from 192.168.178.146:58447 as ArduinoClient (p2, c1, k15).
+1749648475: New connection from 192.168.178.146:58510 on port 1883.
+1749648475: Client ArduinoClient already connected, closing old connection.
+1749648475: New client connected from 192.168.178.146:58510 as ArduinoClient (p2, c1, k15).
+1749648482: New connection from 192.168.178.146:61179 on port 1883.
+1749648482: Client ArduinoClient already connected, closing old connection.
+1749648482: New client connected from 192.168.178.146:61179 as ArduinoClient (p2, c1, k15).
+1749648488: New connection from 192.168.178.146:61944 on port 1883.
+1749648488: Client ArduinoClient already connected, closing old connection.
+1749648488: New client connected from 192.168.178.146:61944 as ArduinoClient (p2, c1, k15).
+1749648495: New connection from 192.168.178.146:61046 on port 1883.
+1749648495: Client ArduinoClient already connected, closing old connection.
+1749648495: New client connected from 192.168.178.146:61046 as ArduinoClient (p2, c1, k15).
+1749648502: New connection from 192.168.178.146:56874 on port 1883.
+1749648502: Client ArduinoClient already connected, closing old connection.
+1749648502: New client connected from 192.168.178.146:56874 as ArduinoClient (p2, c1, k15).
+1749648505: New connection from 192.168.178.161:37702 on port 1883.
+1749648505: New client connected from 192.168.178.161:37702 as auto-F19A3B0C-20C1-422F-04EE-2F6CD58217F9 (p2, c1, k60).
+1749648505: Client auto-F19A3B0C-20C1-422F-04EE-2F6CD58217F9 disconnected.
+1749648508: New connection from 192.168.178.146:62498 on port 1883.
+1749648508: Client ArduinoClient already connected, closing old connection.
+1749648508: New client connected from 192.168.178.146:62498 as ArduinoClient (p2, c1, k15).
+1749648521: New connection from 192.168.178.146:63950 on port 1883.
+1749648521: Client ArduinoClient already connected, closing old connection.
+1749648521: New client connected from 192.168.178.146:63950 as ArduinoClient (p2, c1, k15).
+1749648528: New connection from 192.168.178.146:57666 on port 1883.
+1749648528: Client ArduinoClient already connected, closing old connection.
+1749648528: New client connected from 192.168.178.146:57666 as ArduinoClient (p2, c1, k15).
+1749648535: New connection from 192.168.178.146:58349 on port 1883.
+1749648535: Client ArduinoClient already connected, closing old connection.
+1749648535: New client connected from 192.168.178.146:58349 as ArduinoClient (p2, c1, k15).
+1749648541: New connection from 192.168.178.146:53141 on port 1883.
+1749648541: Client ArduinoClient already connected, closing old connection.
+1749648541: New client connected from 192.168.178.146:53141 as ArduinoClient (p2, c1, k15).
+1749648548: New connection from 192.168.178.146:64942 on port 1883.
+1749648548: Client ArduinoClient already connected, closing old connection.
+1749648548: New client connected from 192.168.178.146:64942 as ArduinoClient (p2, c1, k15).
+1749648555: New connection from 192.168.178.146:64988 on port 1883.
+1749648555: Client ArduinoClient already connected, closing old connection.
+1749648555: New client connected from 192.168.178.146:64988 as ArduinoClient (p2, c1, k15).
+1749648561: New connection from 192.168.178.146:57424 on port 1883.
+1749648561: Client ArduinoClient already connected, closing old connection.
+1749648561: New client connected from 192.168.178.146:57424 as ArduinoClient (p2, c1, k15).
+1749648568: New connection from 192.168.178.146:64733 on port 1883.
+1749648568: Client ArduinoClient already connected, closing old connection.
+1749648568: New client connected from 192.168.178.146:64733 as ArduinoClient (p2, c1, k15).
+1749648575: New connection from 192.168.178.146:56326 on port 1883.
+1749648575: Client ArduinoClient already connected, closing old connection.
+1749648575: New client connected from 192.168.178.146:56326 as ArduinoClient (p2, c1, k15).
+1749648581: New connection from 192.168.178.146:61475 on port 1883.
+1749648581: Client ArduinoClient already connected, closing old connection.
+1749648581: New client connected from 192.168.178.146:61475 as ArduinoClient (p2, c1, k15).
+1749648588: New connection from 192.168.178.146:52852 on port 1883.
+1749648588: Client ArduinoClient already connected, closing old connection.
+1749648588: New client connected from 192.168.178.146:52852 as ArduinoClient (p2, c1, k15).
+1749648595: New connection from 192.168.178.146:63239 on port 1883.
+1749648595: Client ArduinoClient already connected, closing old connection.
+1749648595: New client connected from 192.168.178.146:63239 as ArduinoClient (p2, c1, k15).
+1749648601: New connection from 192.168.178.146:54389 on port 1883.
+1749648601: Client ArduinoClient already connected, closing old connection.
+1749648601: New client connected from 192.168.178.146:54389 as ArduinoClient (p2, c1, k15).
+1749648608: New connection from 192.168.178.146:51873 on port 1883.
+1749648608: Client ArduinoClient already connected, closing old connection.
+1749648608: New client connected from 192.168.178.146:51873 as ArduinoClient (p2, c1, k15).
+1749648615: New connection from 192.168.178.146:52709 on port 1883.
+1749648615: Client ArduinoClient already connected, closing old connection.
+1749648615: New client connected from 192.168.178.146:52709 as ArduinoClient (p2, c1, k15).
+1749648621: New connection from 192.168.178.146:62106 on port 1883.
+1749648621: Client ArduinoClient already connected, closing old connection.
+1749648621: New client connected from 192.168.178.146:62106 as ArduinoClient (p2, c1, k15).
+1749648628: New connection from 192.168.178.146:56231 on port 1883.
+1749648628: Client ArduinoClient already connected, closing old connection.
+1749648628: New client connected from 192.168.178.146:56231 as ArduinoClient (p2, c1, k15).
+1749648646: New connection from 192.168.178.146:55106 on port 1883.
+1749648646: Client ArduinoClient already connected, closing old connection.
+1749648646: New client connected from 192.168.178.146:55106 as ArduinoClient (p2, c1, k15).
+1749648652: New connection from 192.168.178.146:53248 on port 1883.
+1749648652: Client ArduinoClient already connected, closing old connection.
+1749648652: New client connected from 192.168.178.146:53248 as ArduinoClient (p2, c1, k15).
+1749648659: New connection from 192.168.178.146:50117 on port 1883.
+1749648659: Client ArduinoClient already connected, closing old connection.
+1749648659: New client connected from 192.168.178.146:50117 as ArduinoClient (p2, c1, k15).
+1749648666: New connection from 192.168.178.146:55055 on port 1883.
+1749648666: Client ArduinoClient already connected, closing old connection.
+1749648666: New client connected from 192.168.178.146:55055 as ArduinoClient (p2, c1, k15).
+1749648672: New connection from 192.168.178.146:62630 on port 1883.
+1749648672: Client ArduinoClient already connected, closing old connection.
+1749648672: New client connected from 192.168.178.146:62630 as ArduinoClient (p2, c1, k15).
+1749648679: New connection from 192.168.178.146:56940 on port 1883.
+1749648679: Client ArduinoClient already connected, closing old connection.
+1749648679: New client connected from 192.168.178.146:56940 as ArduinoClient (p2, c1, k15).
+1749648686: New connection from 192.168.178.146:62609 on port 1883.
+1749648686: Client ArduinoClient already connected, closing old connection.
+1749648686: New client connected from 192.168.178.146:62609 as ArduinoClient (p2, c1, k15).
+1749648692: New connection from 192.168.178.146:63013 on port 1883.
+1749648692: Client ArduinoClient already connected, closing old connection.
+1749648692: New client connected from 192.168.178.146:63013 as ArduinoClient (p2, c1, k15).
+1749648699: New connection from 192.168.178.146:57439 on port 1883.
+1749648699: Client ArduinoClient already connected, closing old connection.
+1749648699: New client connected from 192.168.178.146:57439 as ArduinoClient (p2, c1, k15).
+1749648706: New connection from 192.168.178.146:62451 on port 1883.
+1749648706: Client ArduinoClient already connected, closing old connection.
+1749648706: New client connected from 192.168.178.146:62451 as ArduinoClient (p2, c1, k15).
+1749648712: New connection from 192.168.178.146:51573 on port 1883.
+1749648712: Client ArduinoClient already connected, closing old connection.
+1749648712: New client connected from 192.168.178.146:51573 as ArduinoClient (p2, c1, k15).
+1749648719: New connection from 192.168.178.146:60218 on port 1883.
+1749648719: Client ArduinoClient already connected, closing old connection.
+1749648719: New client connected from 192.168.178.146:60218 as ArduinoClient (p2, c1, k15).
+1749648726: New connection from 192.168.178.146:51956 on port 1883.
+1749648726: Client ArduinoClient already connected, closing old connection.
+1749648726: New client connected from 192.168.178.146:51956 as ArduinoClient (p2, c1, k15).
+1749648732: New connection from 192.168.178.146:50425 on port 1883.
+1749648732: Client ArduinoClient already connected, closing old connection.
+1749648732: New client connected from 192.168.178.146:50425 as ArduinoClient (p2, c1, k15).
+1749648739: New connection from 192.168.178.146:51628 on port 1883.
+1749648739: Client ArduinoClient already connected, closing old connection.
+1749648739: New client connected from 192.168.178.146:51628 as ArduinoClient (p2, c1, k15).
+1749648746: New connection from 192.168.178.146:57256 on port 1883.
+1749648746: Client ArduinoClient already connected, closing old connection.
+1749648746: New client connected from 192.168.178.146:57256 as ArduinoClient (p2, c1, k15).
+1749648752: New connection from 192.168.178.146:60335 on port 1883.
+1749648752: Client ArduinoClient already connected, closing old connection.
+1749648752: New client connected from 192.168.178.146:60335 as ArduinoClient (p2, c1, k15).
+1749648759: New connection from 192.168.178.146:51082 on port 1883.
+1749648759: Client ArduinoClient already connected, closing old connection.
+1749648759: New client connected from 192.168.178.146:51082 as ArduinoClient (p2, c1, k15).
+1749648766: New connection from 192.168.178.146:51626 on port 1883.
+1749648766: Client ArduinoClient already connected, closing old connection.
+1749648766: New client connected from 192.168.178.146:51626 as ArduinoClient (p2, c1, k15).
+1749648772: New connection from 192.168.178.146:65358 on port 1883.
+1749648772: Client ArduinoClient already connected, closing old connection.
+1749648772: New client connected from 192.168.178.146:65358 as ArduinoClient (p2, c1, k15).
+1749648779: New connection from 192.168.178.146:62917 on port 1883.
+1749648779: Client ArduinoClient already connected, closing old connection.
+1749648779: New client connected from 192.168.178.146:62917 as ArduinoClient (p2, c1, k15).
+1749648786: New connection from 192.168.178.146:63072 on port 1883.
+1749648786: Client ArduinoClient already connected, closing old connection.
+1749648786: New client connected from 192.168.178.146:63072 as ArduinoClient (p2, c1, k15).
+1749648792: New connection from 192.168.178.146:65516 on port 1883.
+1749648792: Client ArduinoClient already connected, closing old connection.
+1749648792: New client connected from 192.168.178.146:65516 as ArduinoClient (p2, c1, k15).
+1749648799: New connection from 192.168.178.146:64132 on port 1883.
+1749648799: Client ArduinoClient already connected, closing old connection.
+1749648799: New client connected from 192.168.178.146:64132 as ArduinoClient (p2, c1, k15).
+1749648806: New connection from 192.168.178.146:58289 on port 1883.
+1749648806: Client ArduinoClient already connected, closing old connection.
+1749648806: New client connected from 192.168.178.146:58289 as ArduinoClient (p2, c1, k15).
+1749648812: New connection from 192.168.178.146:57315 on port 1883.
+1749648812: Client ArduinoClient already connected, closing old connection.
+1749648812: New client connected from 192.168.178.146:57315 as ArduinoClient (p2, c1, k15).
+1749648819: New connection from 192.168.178.146:50932 on port 1883.
+1749648819: Client ArduinoClient already connected, closing old connection.
+1749648819: New client connected from 192.168.178.146:50932 as ArduinoClient (p2, c1, k15).
+1749648826: New connection from 192.168.178.146:63304 on port 1883.
+1749648826: Client ArduinoClient already connected, closing old connection.
+1749648826: New client connected from 192.168.178.146:63304 as ArduinoClient (p2, c1, k15).
+1749648833: New connection from 192.168.178.146:59510 on port 1883.
+1749648833: Client ArduinoClient already connected, closing old connection.
+1749648833: New client connected from 192.168.178.146:59510 as ArduinoClient (p2, c1, k15).
+1749648839: New connection from 192.168.178.146:58543 on port 1883.
+1749648839: Client ArduinoClient already connected, closing old connection.
+1749648839: New client connected from 192.168.178.146:58543 as ArduinoClient (p2, c1, k15).
+1749648846: New connection from 192.168.178.146:57412 on port 1883.
+1749648846: Client ArduinoClient already connected, closing old connection.
+1749648846: New client connected from 192.168.178.146:57412 as ArduinoClient (p2, c1, k15).
+1749648862: New connection from 192.168.178.146:63409 on port 1883.
+1749648862: Client ArduinoClient already connected, closing old connection.
+1749648862: New client connected from 192.168.178.146:63409 as ArduinoClient (p2, c1, k15).
+1749648871: New connection from 192.168.178.146:61057 on port 1883.
+1749648871: Client ArduinoClient already connected, closing old connection.
+1749648871: New client connected from 192.168.178.146:61057 as ArduinoClient (p2, c1, k15).
+1749648879: New connection from 192.168.178.146:52661 on port 1883.
+1749648879: Client ArduinoClient already connected, closing old connection.
+1749648879: New client connected from 192.168.178.146:52661 as ArduinoClient (p2, c1, k15).
+1749648887: New connection from 192.168.178.146:52888 on port 1883.
+1749648887: Client ArduinoClient already connected, closing old connection.
+1749648887: New client connected from 192.168.178.146:52888 as ArduinoClient (p2, c1, k15).
+1749648895: New connection from 192.168.178.146:57902 on port 1883.
+1749648895: Client ArduinoClient already connected, closing old connection.
+1749648895: New client connected from 192.168.178.146:57902 as ArduinoClient (p2, c1, k15).
+1749648904: New connection from 192.168.178.146:59325 on port 1883.
+1749648904: Client ArduinoClient already connected, closing old connection.
+1749648904: New client connected from 192.168.178.146:59325 as ArduinoClient (p2, c1, k15).
+1749648912: New connection from 192.168.178.146:57833 on port 1883.
+1749648912: Client ArduinoClient already connected, closing old connection.
+1749648912: New client connected from 192.168.178.146:57833 as ArduinoClient (p2, c1, k15).
+1749648920: New connection from 192.168.178.146:60070 on port 1883.
+1749648920: Client ArduinoClient already connected, closing old connection.
+1749648920: New client connected from 192.168.178.146:60070 as ArduinoClient (p2, c1, k15).
+1749648929: New connection from 192.168.178.146:64897 on port 1883.
+1749648929: Client ArduinoClient already connected, closing old connection.
+1749648929: New client connected from 192.168.178.146:64897 as ArduinoClient (p2, c1, k15).
+1749648937: New connection from 192.168.178.146:63239 on port 1883.
+1749648937: Client ArduinoClient already connected, closing old connection.
+1749648937: New client connected from 192.168.178.146:63239 as ArduinoClient (p2, c1, k15).
+1749648956: New connection from 192.168.178.146:53477 on port 1883.
+1749648956: Client ArduinoClient already connected, closing old connection.
+1749648956: New client connected from 192.168.178.146:53477 as ArduinoClient (p2, c1, k15).
+1749648964: New connection from 192.168.178.146:50149 on port 1883.
+1749648964: Client ArduinoClient already connected, closing old connection.
+1749648964: New client connected from 192.168.178.146:50149 as ArduinoClient (p2, c1, k15).
+1749648972: New connection from 192.168.178.146:49448 on port 1883.
+1749648972: Client ArduinoClient already connected, closing old connection.
+1749648972: New client connected from 192.168.178.146:49448 as ArduinoClient (p2, c1, k15).
+1749648988: New connection from 192.168.178.146:55575 on port 1883.
+1749648988: Client ArduinoClient already connected, closing old connection.
+1749648988: New client connected from 192.168.178.146:55575 as ArduinoClient (p2, c1, k15).
+1749648997: New connection from 192.168.178.146:54760 on port 1883.
+1749648997: Client ArduinoClient already connected, closing old connection.
+1749648997: New client connected from 192.168.178.146:54760 as ArduinoClient (p2, c1, k15).
+1749649005: New connection from 192.168.178.146:53400 on port 1883.
+1749649005: Client ArduinoClient already connected, closing old connection.
+1749649005: New client connected from 192.168.178.146:53400 as ArduinoClient (p2, c1, k15).
+1749649017: New connection from 192.168.178.146:61754 on port 1883.
+1749649017: Client ArduinoClient already connected, closing old connection.
+1749649017: New client connected from 192.168.178.146:61754 as ArduinoClient (p2, c1, k15).
+1749649025: New connection from 192.168.178.146:53319 on port 1883.
+1749649025: Client ArduinoClient already connected, closing old connection.
+1749649025: New client connected from 192.168.178.146:53319 as ArduinoClient (p2, c1, k15).
+1749649034: New connection from 192.168.178.146:60836 on port 1883.
+1749649034: Client ArduinoClient already connected, closing old connection.
+1749649034: New client connected from 192.168.178.146:60836 as ArduinoClient (p2, c1, k15).
+1749649042: New connection from 192.168.178.146:61456 on port 1883.
+1749649042: Client ArduinoClient already connected, closing old connection.
+1749649042: New client connected from 192.168.178.146:61456 as ArduinoClient (p2, c1, k15).
+1749649050: New connection from 192.168.178.146:60305 on port 1883.
+1749649050: Client ArduinoClient already connected, closing old connection.
+1749649050: New client connected from 192.168.178.146:60305 as ArduinoClient (p2, c1, k15).
+1749649058: New connection from 192.168.178.146:50583 on port 1883.
+1749649058: Client ArduinoClient already connected, closing old connection.
+1749649058: New client connected from 192.168.178.146:50583 as ArduinoClient (p2, c1, k15).
+1749649067: New connection from 192.168.178.146:58506 on port 1883.
+1749649067: Client ArduinoClient already connected, closing old connection.
+1749649067: New client connected from 192.168.178.146:58506 as ArduinoClient (p2, c1, k15).
+1749649087: New connection from 192.168.178.146:50016 on port 1883.
+1749649087: Client ArduinoClient already connected, closing old connection.
+1749649087: New client connected from 192.168.178.146:50016 as ArduinoClient (p2, c1, k15).
+1749649095: New connection from 192.168.178.146:52201 on port 1883.
+1749649095: Client ArduinoClient already connected, closing old connection.
+1749649095: New client connected from 192.168.178.146:52201 as ArduinoClient (p2, c1, k15).
+1749649104: New connection from 192.168.178.146:57250 on port 1883.
+1749649104: Client ArduinoClient already connected, closing old connection.
+1749649104: New client connected from 192.168.178.146:57250 as ArduinoClient (p2, c1, k15).
+1749649112: New connection from 192.168.178.146:62762 on port 1883.
+1749649112: Client ArduinoClient already connected, closing old connection.
+1749649112: New client connected from 192.168.178.146:62762 as ArduinoClient (p2, c1, k15).
+1749649127: New connection from 192.168.178.146:64725 on port 1883.
+1749649127: Client ArduinoClient already connected, closing old connection.
+1749649127: New client connected from 192.168.178.146:64725 as ArduinoClient (p2, c1, k15).
+1749649136: New connection from 192.168.178.146:56876 on port 1883.
+1749649136: Client ArduinoClient already connected, closing old connection.
+1749649136: New client connected from 192.168.178.146:56876 as ArduinoClient (p2, c1, k15).
+1749649144: New connection from 192.168.178.146:53836 on port 1883.
+1749649144: Client ArduinoClient already connected, closing old connection.
+1749649144: New client connected from 192.168.178.146:53836 as ArduinoClient (p2, c1, k15).
+1749649152: New connection from 192.168.178.146:58859 on port 1883.
+1749649152: Client ArduinoClient already connected, closing old connection.
+1749649152: New client connected from 192.168.178.146:58859 as ArduinoClient (p2, c1, k15).
+1749649160: New connection from 192.168.178.146:49800 on port 1883.
+1749649160: Client ArduinoClient already connected, closing old connection.
+1749649160: New client connected from 192.168.178.146:49800 as ArduinoClient (p2, c1, k15).
+1749649169: New connection from 192.168.178.146:51956 on port 1883.
+1749649169: Client ArduinoClient already connected, closing old connection.
+1749649169: New client connected from 192.168.178.146:51956 as ArduinoClient (p2, c1, k15).
+1749649177: New connection from 192.168.178.146:63953 on port 1883.
+1749649177: Client ArduinoClient already connected, closing old connection.
+1749649177: New client connected from 192.168.178.146:63953 as ArduinoClient (p2, c1, k15).
+1749649185: New connection from 192.168.178.146:62514 on port 1883.
+1749649185: Client ArduinoClient already connected, closing old connection.
+1749649185: New client connected from 192.168.178.146:62514 as ArduinoClient (p2, c1, k15).
+1749649194: New connection from 192.168.178.146:56354 on port 1883.
+1749649194: Client ArduinoClient already connected, closing old connection.
+1749649194: New client connected from 192.168.178.146:56354 as ArduinoClient (p2, c1, k15).
+1749649202: New connection from 192.168.178.146:50189 on port 1883.
+1749649202: Client ArduinoClient already connected, closing old connection.
+1749649202: New client connected from 192.168.178.146:50189 as ArduinoClient (p2, c1, k15).
+1749649210: New connection from 192.168.178.146:64009 on port 1883.
+1749649210: Client ArduinoClient already connected, closing old connection.
+1749649210: New client connected from 192.168.178.146:64009 as ArduinoClient (p2, c1, k15).
+1749649218: New connection from 192.168.178.146:57305 on port 1883.
+1749649218: Client ArduinoClient already connected, closing old connection.
+1749649218: New client connected from 192.168.178.146:57305 as ArduinoClient (p2, c1, k15).
+1749649227: New connection from 192.168.178.146:58438 on port 1883.
+1749649227: Client ArduinoClient already connected, closing old connection.
+1749649227: New client connected from 192.168.178.146:58438 as ArduinoClient (p2, c1, k15).
+1749649235: New connection from 192.168.178.146:57874 on port 1883.
+1749649235: Client ArduinoClient already connected, closing old connection.
+1749649235: New client connected from 192.168.178.146:57874 as ArduinoClient (p2, c1, k15).
+1749649243: New connection from 192.168.178.146:51783 on port 1883.
+1749649243: Client ArduinoClient already connected, closing old connection.
+1749649243: New client connected from 192.168.178.146:51783 as ArduinoClient (p2, c1, k15).
+1749649263: New connection from 192.168.178.146:58918 on port 1883.
+1749649263: New client connected from 192.168.178.146:58918 as ESP8266Client (p2, c1, k15).
+1749649266: Client ArduinoClient has exceeded timeout, disconnecting.
+1749649271: New connection from 192.168.178.146:50902 on port 1883.
+1749649271: Client ESP8266Client already connected, closing old connection.
+1749649271: New client connected from 192.168.178.146:50902 as ESP8266Client (p2, c1, k15).
+1749649279: New connection from 192.168.178.146:55084 on port 1883.
+1749649279: Client ESP8266Client already connected, closing old connection.
+1749649279: New client connected from 192.168.178.146:55084 as ESP8266Client (p2, c1, k15).
+1749649291: New connection from 192.168.178.146:59883 on port 1883.
+1749649291: Client ESP8266Client already connected, closing old connection.
+1749649291: New client connected from 192.168.178.146:59883 as ESP8266Client (p2, c1, k15).
+1749649299: New connection from 192.168.178.146:56488 on port 1883.
+1749649299: Client ESP8266Client already connected, closing old connection.
+1749649299: New client connected from 192.168.178.146:56488 as ESP8266Client (p2, c1, k15).
+1749649308: New connection from 192.168.178.146:55720 on port 1883.
+1749649308: Client ESP8266Client already connected, closing old connection.
+1749649308: New client connected from 192.168.178.146:55720 as ESP8266Client (p2, c1, k15).
+1749649316: New connection from 192.168.178.146:59918 on port 1883.
+1749649316: Client ESP8266Client already connected, closing old connection.
+1749649316: New client connected from 192.168.178.146:59918 as ESP8266Client (p2, c1, k15).
+1749649324: New connection from 192.168.178.146:58748 on port 1883.
+1749649324: Client ESP8266Client already connected, closing old connection.
+1749649324: New client connected from 192.168.178.146:58748 as ESP8266Client (p2, c1, k15).
+1749649332: New connection from 192.168.178.146:56868 on port 1883.
+1749649332: Client ESP8266Client already connected, closing old connection.
+1749649332: New client connected from 192.168.178.146:56868 as ESP8266Client (p2, c1, k15).
+1749649341: New connection from 192.168.178.146:58965 on port 1883.
+1749649341: Client ESP8266Client already connected, closing old connection.
+1749649341: New client connected from 192.168.178.146:58965 as ESP8266Client (p2, c1, k15).
+1749649349: New connection from 192.168.178.146:52468 on port 1883.
+1749649349: Client ESP8266Client already connected, closing old connection.
+1749649349: New client connected from 192.168.178.146:52468 as ESP8266Client (p2, c1, k15).
+1749649357: New connection from 192.168.178.146:60411 on port 1883.
+1749649357: Client ESP8266Client already connected, closing old connection.
+1749649357: New client connected from 192.168.178.146:60411 as ESP8266Client (p2, c1, k15).
+1749649365: New connection from 192.168.178.146:61711 on port 1883.
+1749649365: Client ESP8266Client already connected, closing old connection.
+1749649365: New client connected from 192.168.178.146:61711 as ESP8266Client (p2, c1, k15).
+1749649383: New connection from 192.168.178.146:60825 on port 1883.
+1749649383: Client ESP8266Client already connected, closing old connection.
+1749649383: New client connected from 192.168.178.146:60825 as ESP8266Client (p2, c1, k15).
+1749649391: New connection from 192.168.178.146:57434 on port 1883.
+1749649391: Client ESP8266Client already connected, closing old connection.
+1749649391: New client connected from 192.168.178.146:57434 as ESP8266Client (p2, c1, k15).
+1749649399: New connection from 192.168.178.146:62829 on port 1883.
+1749649399: Client ESP8266Client already connected, closing old connection.
+1749649399: New client connected from 192.168.178.146:62829 as ESP8266Client (p2, c1, k15).
+1749649407: New connection from 192.168.178.146:59142 on port 1883.
+1749649407: Client ESP8266Client already connected, closing old connection.
+1749649407: New client connected from 192.168.178.146:59142 as ESP8266Client (p2, c1, k15).
+1749649416: New connection from 192.168.178.146:55573 on port 1883.
+1749649416: Client ESP8266Client already connected, closing old connection.
+1749649416: New client connected from 192.168.178.146:55573 as ESP8266Client (p2, c1, k15).
+1749649424: New connection from 192.168.178.146:61090 on port 1883.
+1749649424: Client ESP8266Client already connected, closing old connection.
+1749649424: New client connected from 192.168.178.146:61090 as ESP8266Client (p2, c1, k15).
+1749649432: New connection from 192.168.178.146:63956 on port 1883.
+1749649432: Client ESP8266Client already connected, closing old connection.
+1749649432: New client connected from 192.168.178.146:63956 as ESP8266Client (p2, c1, k15).
+1749649440: New connection from 192.168.178.146:59999 on port 1883.
+1749649440: Client ESP8266Client already connected, closing old connection.
+1749649440: New client connected from 192.168.178.146:59999 as ESP8266Client (p2, c1, k15).
+1749649449: New connection from 192.168.178.146:59178 on port 1883.
+1749649449: Client ESP8266Client already connected, closing old connection.
+1749649449: New client connected from 192.168.178.146:59178 as ESP8266Client (p2, c1, k15).
+1749649458: New connection from 192.168.178.146:63672 on port 1883.
+1749649458: Client ESP8266Client already connected, closing old connection.
+1749649458: New client connected from 192.168.178.146:63672 as ESP8266Client (p2, c1, k15).
+1749649465: Client ESP8266Client closed its connection.
+1749649465: New connection from 192.168.178.146:53886 on port 1883.
+1749649465: New client connected from 192.168.178.146:53886 as ESP8266Client (p2, c1, k15).
+1749649473: New connection from 192.168.178.146:61603 on port 1883.
+1749649473: Client ESP8266Client already connected, closing old connection.
+1749649473: New client connected from 192.168.178.146:61603 as ESP8266Client (p2, c1, k15).
+1749649482: New connection from 192.168.178.146:62589 on port 1883.
+1749649482: Client ESP8266Client already connected, closing old connection.
+1749649482: New client connected from 192.168.178.146:62589 as ESP8266Client (p2, c1, k15).
+1749649490: New connection from 192.168.178.146:64037 on port 1883.
+1749649490: Client ESP8266Client already connected, closing old connection.
+1749649490: New client connected from 192.168.178.146:64037 as ESP8266Client (p2, c1, k15).
+1749649498: New connection from 192.168.178.146:59437 on port 1883.
+1749649498: Client ESP8266Client already connected, closing old connection.
+1749649498: New client connected from 192.168.178.146:59437 as ESP8266Client (p2, c1, k15).
+1749649507: New connection from 192.168.178.146:51277 on port 1883.
+1749649507: Client ESP8266Client already connected, closing old connection.
+1749649507: New client connected from 192.168.178.146:51277 as ESP8266Client (p2, c1, k15).
+1749649515: New connection from 192.168.178.146:52859 on port 1883.
+1749649515: Client ESP8266Client already connected, closing old connection.
+1749649515: New client connected from 192.168.178.146:52859 as ESP8266Client (p2, c1, k15).
+1749649523: New connection from 192.168.178.146:58105 on port 1883.
+1749649523: Client ESP8266Client already connected, closing old connection.
+1749649523: New client connected from 192.168.178.146:58105 as ESP8266Client (p2, c1, k15).
+1749649531: New connection from 192.168.178.146:51561 on port 1883.
+1749649531: Client ESP8266Client already connected, closing old connection.
+1749649531: New client connected from 192.168.178.146:51561 as ESP8266Client (p2, c1, k15).
+1749649540: New connection from 192.168.178.146:62938 on port 1883.
+1749649540: Client ESP8266Client already connected, closing old connection.
+1749649540: New client connected from 192.168.178.146:62938 as ESP8266Client (p2, c1, k15).
+1749649548: New connection from 192.168.178.146:60002 on port 1883.
+1749649548: Client ESP8266Client already connected, closing old connection.
+1749649548: New client connected from 192.168.178.146:60002 as ESP8266Client (p2, c1, k15).
+1749649556: New connection from 192.168.178.146:58528 on port 1883.
+1749649556: Client ESP8266Client already connected, closing old connection.
+1749649556: New client connected from 192.168.178.146:58528 as ESP8266Client (p2, c1, k15).
+1749649565: New connection from 192.168.178.146:64157 on port 1883.
+1749649565: Client ESP8266Client already connected, closing old connection.
+1749649565: New client connected from 192.168.178.146:64157 as ESP8266Client (p2, c1, k15).
+1749649573: New connection from 192.168.178.146:57901 on port 1883.
+1749649573: Client ESP8266Client already connected, closing old connection.
+1749649573: New client connected from 192.168.178.146:57901 as ESP8266Client (p2, c1, k15).
+1749649581: New connection from 192.168.178.146:57599 on port 1883.
+1749649581: Client ESP8266Client already connected, closing old connection.
+1749649581: New client connected from 192.168.178.146:57599 as ESP8266Client (p2, c1, k15).
+1749649604: Client ESP8266Client has exceeded timeout, disconnecting.
+1749649789: New connection from 192.168.178.146:50180 on port 1883.
+1749649789: New client connected from 192.168.178.146:50180 as ESP8266Client (p2, c1, k15).
+1749649797: New connection from 192.168.178.146:52898 on port 1883.
+1749649797: Client ESP8266Client already connected, closing old connection.
+1749649797: New client connected from 192.168.178.146:52898 as ESP8266Client (p2, c1, k15).
+1749649806: New connection from 192.168.178.146:58913 on port 1883.
+1749649806: Client ESP8266Client already connected, closing old connection.
+1749649806: New client connected from 192.168.178.146:58913 as ESP8266Client (p2, c1, k15).
+1749649814: New connection from 192.168.178.146:62060 on port 1883.
+1749649814: Client ESP8266Client already connected, closing old connection.
+1749649814: New client connected from 192.168.178.146:62060 as ESP8266Client (p2, c1, k15).
+1749649822: New connection from 192.168.178.146:50054 on port 1883.
+1749649822: Client ESP8266Client already connected, closing old connection.
+1749649822: New client connected from 192.168.178.146:50054 as ESP8266Client (p2, c1, k15).
+1749649845: Client ESP8266Client has exceeded timeout, disconnecting.
+1749650020: New connection from 192.168.178.146:51934 on port 1883.
+1749650020: New client connected from 192.168.178.146:51934 as ESP8266Client (p2, c1, k15).
+1749650029: New connection from 192.168.178.146:60044 on port 1883.
+1749650029: Client ESP8266Client already connected, closing old connection.
+1749650029: New client connected from 192.168.178.146:60044 as ESP8266Client (p2, c1, k15).
+1749650037: New connection from 192.168.178.146:56330 on port 1883.
+1749650037: Client ESP8266Client already connected, closing old connection.
+1749650037: New client connected from 192.168.178.146:56330 as ESP8266Client (p2, c1, k15).
+1749650060: Client ESP8266Client has exceeded timeout, disconnecting.
+1749650237: New connection from 192.168.178.146:55843 on port 1883.
+1749650237: New client connected from 192.168.178.146:55843 as ESP8266Client (p2, c1, k15).
+1749650260: Client ESP8266Client has exceeded timeout, disconnecting.
+1749650338: New connection from 192.168.178.146:58666 on port 1883.
+1749650338: New client connected from 192.168.178.146:58666 as ESP8266Client (p2, c1, k15).
+1749650346: New connection from 192.168.178.146:64447 on port 1883.
+1749650346: Client ESP8266Client already connected, closing old connection.
+1749650346: New client connected from 192.168.178.146:64447 as ESP8266Client (p2, c1, k15).
+1749650354: New connection from 192.168.178.146:50955 on port 1883.
+1749650354: Client ESP8266Client already connected, closing old connection.
+1749650354: New client connected from 192.168.178.146:50955 as ESP8266Client (p2, c1, k15).
+1749650362: New connection from 192.168.178.146:61120 on port 1883.
+1749650362: Client ESP8266Client already connected, closing old connection.
+1749650362: New client connected from 192.168.178.146:61120 as ESP8266Client (p2, c1, k15).
+1749650371: New connection from 192.168.178.146:57749 on port 1883.
+1749650371: Client ESP8266Client already connected, closing old connection.
+1749650371: New client connected from 192.168.178.146:57749 as ESP8266Client (p2, c1, k15).
+1749650379: New connection from 192.168.178.146:54026 on port 1883.
+1749650379: Client ESP8266Client already connected, closing old connection.
+1749650379: New client connected from 192.168.178.146:54026 as ESP8266Client (p2, c1, k15).
+1749650387: New connection from 192.168.178.146:56310 on port 1883.
+1749650387: Client ESP8266Client already connected, closing old connection.
+1749650387: New client connected from 192.168.178.146:56310 as ESP8266Client (p2, c1, k15).
+1749650396: New connection from 192.168.178.146:58046 on port 1883.
+1749650396: Client ESP8266Client already connected, closing old connection.
+1749650396: New client connected from 192.168.178.146:58046 as ESP8266Client (p2, c1, k15).
+1749650404: New connection from 192.168.178.146:60009 on port 1883.
+1749650404: Client ESP8266Client already connected, closing old connection.
+1749650404: New client connected from 192.168.178.146:60009 as ESP8266Client (p2, c1, k15).
+1749650412: New connection from 192.168.178.146:59963 on port 1883.
+1749650412: Client ESP8266Client already connected, closing old connection.
+1749650412: New client connected from 192.168.178.146:59963 as ESP8266Client (p2, c1, k15).
+1749650420: New connection from 192.168.178.146:52552 on port 1883.
+1749650420: Client ESP8266Client already connected, closing old connection.
+1749650420: New client connected from 192.168.178.146:52552 as ESP8266Client (p2, c1, k15).
+1749650429: New connection from 192.168.178.146:49239 on port 1883.
+1749650429: Client ESP8266Client already connected, closing old connection.
+1749650429: New client connected from 192.168.178.146:49239 as ESP8266Client (p2, c1, k15).
+1749650437: New connection from 192.168.178.146:56699 on port 1883.
+1749650437: Client ESP8266Client already connected, closing old connection.
+1749650437: New client connected from 192.168.178.146:56699 as ESP8266Client (p2, c1, k15).
+1749650445: New connection from 192.168.178.146:53807 on port 1883.
+1749650445: Client ESP8266Client already connected, closing old connection.
+1749650445: New client connected from 192.168.178.146:53807 as ESP8266Client (p2, c1, k15).
+1749650455: New connection from 192.168.178.146:52617 on port 1883.
+1749650455: Client ESP8266Client already connected, closing old connection.
+1749650455: New client connected from 192.168.178.146:52617 as ESP8266Client (p2, c1, k15).
+1749650462: New connection from 192.168.178.146:52566 on port 1883.
+1749650462: Client ESP8266Client already connected, closing old connection.
+1749650462: New client connected from 192.168.178.146:52566 as ESP8266Client (p2, c1, k15).
+1749650470: New connection from 192.168.178.146:62386 on port 1883.
+1749650470: Client ESP8266Client already connected, closing old connection.
+1749650470: New client connected from 192.168.178.146:62386 as ESP8266Client (p2, c1, k15).
+1749650478: New connection from 192.168.178.146:59631 on port 1883.
+1749650478: Client ESP8266Client already connected, closing old connection.
+1749650478: New client connected from 192.168.178.146:59631 as ESP8266Client (p2, c1, k15).
+1749650487: New connection from 192.168.178.146:55885 on port 1883.
+1749650487: Client ESP8266Client already connected, closing old connection.
+1749650487: New client connected from 192.168.178.146:55885 as ESP8266Client (p2, c1, k15).
+1749650495: New connection from 192.168.178.146:55799 on port 1883.
+1749650495: Client ESP8266Client already connected, closing old connection.
+1749650495: New client connected from 192.168.178.146:55799 as ESP8266Client (p2, c1, k15).
+1749650504: New connection from 192.168.178.146:62751 on port 1883.
+1749650504: Client ESP8266Client already connected, closing old connection.
+1749650504: New client connected from 192.168.178.146:62751 as ESP8266Client (p2, c1, k15).
+1749650511: Client ESP8266Client closed its connection.
+1749650511: New connection from 192.168.178.146:56800 on port 1883.
+1749650511: New client connected from 192.168.178.146:56800 as ESP8266Client (p2, c1, k15).
+1749650520: New connection from 192.168.178.146:62307 on port 1883.
+1749650520: Client ESP8266Client already connected, closing old connection.
+1749650520: New client connected from 192.168.178.146:62307 as ESP8266Client (p2, c1, k15).
+1749650528: New connection from 192.168.178.146:64228 on port 1883.
+1749650528: Client ESP8266Client already connected, closing old connection.
+1749650528: New client connected from 192.168.178.146:64228 as ESP8266Client (p2, c1, k15).
+1749650536: New connection from 192.168.178.146:64401 on port 1883.
+1749650536: Client ESP8266Client already connected, closing old connection.
+1749650536: New client connected from 192.168.178.146:64401 as ESP8266Client (p2, c1, k15).
+1749650545: New connection from 192.168.178.146:63326 on port 1883.
+1749650545: Client ESP8266Client already connected, closing old connection.
+1749650545: New client connected from 192.168.178.146:63326 as ESP8266Client (p2, c1, k15).
+1749650553: New connection from 192.168.178.146:55900 on port 1883.
+1749650553: Client ESP8266Client already connected, closing old connection.
+1749650553: New client connected from 192.168.178.146:55900 as ESP8266Client (p2, c1, k15).
+1749650561: New connection from 192.168.178.146:58696 on port 1883.
+1749650561: Client ESP8266Client already connected, closing old connection.
+1749650561: New client connected from 192.168.178.146:58696 as ESP8266Client (p2, c1, k15).
+1749650569: New connection from 192.168.178.146:60245 on port 1883.
+1749650569: Client ESP8266Client already connected, closing old connection.
+1749650569: New client connected from 192.168.178.146:60245 as ESP8266Client (p2, c1, k15).
+1749650578: New connection from 192.168.178.146:62723 on port 1883.
+1749650578: Client ESP8266Client already connected, closing old connection.
+1749650578: New client connected from 192.168.178.146:62723 as ESP8266Client (p2, c1, k15).
+1749650586: New connection from 192.168.178.146:64086 on port 1883.
+1749650586: Client ESP8266Client already connected, closing old connection.
+1749650586: New client connected from 192.168.178.146:64086 as ESP8266Client (p2, c1, k15).
+1749650594: New connection from 192.168.178.146:65343 on port 1883.
+1749650594: Client ESP8266Client already connected, closing old connection.
+1749650594: New client connected from 192.168.178.146:65343 as ESP8266Client (p2, c1, k15).
+1749650602: New connection from 192.168.178.146:49196 on port 1883.
+1749650602: Client ESP8266Client already connected, closing old connection.
+1749650602: New client connected from 192.168.178.146:49196 as ESP8266Client (p2, c1, k15).
+1749650611: New connection from 192.168.178.146:54463 on port 1883.
+1749650611: Client ESP8266Client already connected, closing old connection.
+1749650611: New client connected from 192.168.178.146:54463 as ESP8266Client (p2, c1, k15).
+1749650619: New connection from 192.168.178.146:59436 on port 1883.
+1749650619: Client ESP8266Client already connected, closing old connection.
+1749650619: New client connected from 192.168.178.146:59436 as ESP8266Client (p2, c1, k15).
+1749650627: New connection from 192.168.178.146:62856 on port 1883.
+1749650627: Client ESP8266Client already connected, closing old connection.
+1749650627: New client connected from 192.168.178.146:62856 as ESP8266Client (p2, c1, k15).
+1749650636: New connection from 192.168.178.146:49801 on port 1883.
+1749650636: Client ESP8266Client already connected, closing old connection.
+1749650636: New client connected from 192.168.178.146:49801 as ESP8266Client (p2, c1, k15).
+1749650659: Client ESP8266Client has exceeded timeout, disconnecting.
+1749650871: New connection from 192.168.178.146:56658 on port 1883.
+1749650871: New client connected from 192.168.178.146:56658 as ESP8266Client (p2, c1, k15).
+1749650879: New connection from 192.168.178.146:53134 on port 1883.
+1749650879: Client ESP8266Client already connected, closing old connection.
+1749650879: New client connected from 192.168.178.146:53134 as ESP8266Client (p2, c1, k15).
+1749650887: New connection from 192.168.178.146:52605 on port 1883.
+1749650887: Client ESP8266Client already connected, closing old connection.
+1749650887: New client connected from 192.168.178.146:52605 as ESP8266Client (p2, c1, k15).
+1749650900: New connection from 192.168.178.146:51856 on port 1883.
+1749650901: Client ESP8266Client already connected, closing old connection.
+1749650901: New client connected from 192.168.178.146:51856 as ESP8266Client (p2, c1, k15).
+1749650907: New connection from 192.168.178.146:54857 on port 1883.
+1749650907: Client ESP8266Client already connected, closing old connection.
+1749650907: New client connected from 192.168.178.146:54857 as ESP8266Client (p2, c1, k15).
+1749650915: New connection from 192.168.178.146:54730 on port 1883.
+1749650915: Client ESP8266Client already connected, closing old connection.
+1749650915: New client connected from 192.168.178.146:54730 as ESP8266Client (p2, c1, k15).
+1749650923: New connection from 192.168.178.146:54295 on port 1883.
+1749650923: Client ESP8266Client already connected, closing old connection.
+1749650923: New client connected from 192.168.178.146:54295 as ESP8266Client (p2, c1, k15).
+1749650932: New connection from 192.168.178.146:57291 on port 1883.
+1749650932: Client ESP8266Client already connected, closing old connection.
+1749650932: New client connected from 192.168.178.146:57291 as ESP8266Client (p2, c1, k15).
+1749650940: New connection from 192.168.178.146:60461 on port 1883.
+1749650940: Client ESP8266Client already connected, closing old connection.
+1749650940: New client connected from 192.168.178.146:60461 as ESP8266Client (p2, c1, k15).
+1749650948: New connection from 192.168.178.146:50045 on port 1883.
+1749650948: Client ESP8266Client already connected, closing old connection.
+1749650948: New client connected from 192.168.178.146:50045 as ESP8266Client (p2, c1, k15).
+1749650957: New connection from 192.168.178.146:51504 on port 1883.
+1749650957: Client ESP8266Client already connected, closing old connection.
+1749650957: New client connected from 192.168.178.146:51504 as ESP8266Client (p2, c1, k15).
+1749650965: New connection from 192.168.178.146:55257 on port 1883.
+1749650965: Client ESP8266Client already connected, closing old connection.
+1749650965: New client connected from 192.168.178.146:55257 as ESP8266Client (p2, c1, k15).
+1749650973: New connection from 192.168.178.146:64463 on port 1883.
+1749650973: Client ESP8266Client already connected, closing old connection.
+1749650973: New client connected from 192.168.178.146:64463 as ESP8266Client (p2, c1, k15).
+1749650981: New connection from 192.168.178.146:56168 on port 1883.
+1749650981: Client ESP8266Client already connected, closing old connection.
+1749650981: New client connected from 192.168.178.146:56168 as ESP8266Client (p2, c1, k15).
+1749650990: New connection from 192.168.178.146:57340 on port 1883.
+1749650990: Client ESP8266Client already connected, closing old connection.
+1749650990: New client connected from 192.168.178.146:57340 as ESP8266Client (p2, c1, k15).
+1749650998: New connection from 192.168.178.146:64573 on port 1883.
+1749650998: Client ESP8266Client already connected, closing old connection.
+1749650998: New client connected from 192.168.178.146:64573 as ESP8266Client (p2, c1, k15).
+1749651007: New connection from 192.168.178.146:59451 on port 1883.
+1749651007: Client ESP8266Client already connected, closing old connection.
+1749651007: New client connected from 192.168.178.146:59451 as ESP8266Client (p2, c1, k15).
+1749651015: New connection from 192.168.178.146:50166 on port 1883.
+1749651015: Client ESP8266Client already connected, closing old connection.
+1749651015: New client connected from 192.168.178.146:50166 as ESP8266Client (p2, c1, k15).
+1749651023: New connection from 192.168.178.146:65453 on port 1883.
+1749651023: Client ESP8266Client already connected, closing old connection.
+1749651023: New client connected from 192.168.178.146:65453 as ESP8266Client (p2, c1, k15).
+1749651031: New connection from 192.168.178.146:57431 on port 1883.
+1749651031: Client ESP8266Client already connected, closing old connection.
+1749651031: New client connected from 192.168.178.146:57431 as ESP8266Client (p2, c1, k15).
+1749651039: New connection from 192.168.178.146:62195 on port 1883.
+1749651039: Client ESP8266Client already connected, closing old connection.
+1749651039: New client connected from 192.168.178.146:62195 as ESP8266Client (p2, c1, k15).
+1749651048: New connection from 192.168.178.146:51788 on port 1883.
+1749651048: Client ESP8266Client already connected, closing old connection.
+1749651048: New client connected from 192.168.178.146:51788 as ESP8266Client (p2, c1, k15).
+1749651056: New connection from 192.168.178.146:51943 on port 1883.
+1749651056: Client ESP8266Client already connected, closing old connection.
+1749651056: New client connected from 192.168.178.146:51943 as ESP8266Client (p2, c1, k15).
+1749651064: New connection from 192.168.178.146:63583 on port 1883.
+1749651064: Client ESP8266Client already connected, closing old connection.
+1749651064: New client connected from 192.168.178.146:63583 as ESP8266Client (p2, c1, k15).
+1749651072: New connection from 192.168.178.146:58276 on port 1883.
+1749651072: Client ESP8266Client already connected, closing old connection.
+1749651072: New client connected from 192.168.178.146:58276 as ESP8266Client (p2, c1, k15).
+1749651081: New connection from 192.168.178.146:49828 on port 1883.
+1749651081: Client ESP8266Client already connected, closing old connection.
+1749651081: New client connected from 192.168.178.146:49828 as ESP8266Client (p2, c1, k15).
+1749651089: New connection from 192.168.178.146:49705 on port 1883.
+1749651089: Client ESP8266Client already connected, closing old connection.
+1749651089: New client connected from 192.168.178.146:49705 as ESP8266Client (p2, c1, k15).
+1749651097: New connection from 192.168.178.146:58447 on port 1883.
+1749651097: Client ESP8266Client already connected, closing old connection.
+1749651097: New client connected from 192.168.178.146:58447 as ESP8266Client (p2, c1, k15).
+1749651105: New connection from 192.168.178.146:63184 on port 1883.
+1749651105: Client ESP8266Client already connected, closing old connection.
+1749651105: New client connected from 192.168.178.146:63184 as ESP8266Client (p2, c1, k15).
+1749651114: New connection from 192.168.178.146:50382 on port 1883.
+1749651114: Client ESP8266Client already connected, closing old connection.
+1749651114: New client connected from 192.168.178.146:50382 as ESP8266Client (p2, c1, k15).
+1749651122: New connection from 192.168.178.146:54491 on port 1883.
+1749651122: Client ESP8266Client already connected, closing old connection.
+1749651122: New client connected from 192.168.178.146:54491 as ESP8266Client (p2, c1, k15).
+1749651130: New connection from 192.168.178.146:58663 on port 1883.
+1749651130: Client ESP8266Client already connected, closing old connection.
+1749651130: New client connected from 192.168.178.146:58663 as ESP8266Client (p2, c1, k15).
+1749651139: New connection from 192.168.178.146:60252 on port 1883.
+1749651139: Client ESP8266Client already connected, closing old connection.
+1749651139: New client connected from 192.168.178.146:60252 as ESP8266Client (p2, c1, k15).
+1749651147: New connection from 192.168.178.146:50074 on port 1883.
+1749651147: Client ESP8266Client already connected, closing old connection.
+1749651147: New client connected from 192.168.178.146:50074 as ESP8266Client (p2, c1, k15).
+1749651155: New connection from 192.168.178.146:58903 on port 1883.
+1749651155: Client ESP8266Client already connected, closing old connection.
+1749651155: New client connected from 192.168.178.146:58903 as ESP8266Client (p2, c1, k15).
+1749651165: New connection from 192.168.178.146:57386 on port 1883.
+1749651165: Client ESP8266Client already connected, closing old connection.
+1749651165: New client connected from 192.168.178.146:57386 as ESP8266Client (p2, c1, k15).
+1749651172: New connection from 192.168.178.146:52684 on port 1883.
+1749651172: Client ESP8266Client already connected, closing old connection.
+1749651172: New client connected from 192.168.178.146:52684 as ESP8266Client (p2, c1, k15).
+1749651195: Client ESP8266Client has exceeded timeout, disconnecting.
+1749651227: Client auto-3C7A303D-1000-0EA0-A590-B75CDC85BA82 disconnected.
+1749651245: New connection from 192.168.178.162:38776 on port 1883.
+1749651245: New client connected from 192.168.178.162:38776 as auto-0CFB9310-1BC5-34B5-9E58-CC3E1EFFCEBA (p2, c1, k60).
+1749651290: New connection from 192.168.178.146:57013 on port 1883.
+1749651290: New client connected from 192.168.178.146:57013 as ArduinoClient (p2, c1, k15).
+1749651297: New connection from 192.168.178.146:55879 on port 1883.
+1749651297: Client ArduinoClient already connected, closing old connection.
+1749651297: New client connected from 192.168.178.146:55879 as ArduinoClient (p2, c1, k15).
+1749651303: New connection from 192.168.178.146:57208 on port 1883.
+1749651303: Client ArduinoClient already connected, closing old connection.
+1749651303: New client connected from 192.168.178.146:57208 as ArduinoClient (p2, c1, k15).
+1749651310: New connection from 192.168.178.146:61935 on port 1883.
+1749651310: Client ArduinoClient already connected, closing old connection.
+1749651310: New client connected from 192.168.178.146:61935 as ArduinoClient (p2, c1, k15).
+1749651317: New connection from 192.168.178.146:51129 on port 1883.
+1749651317: Client ArduinoClient already connected, closing old connection.
+1749651317: New client connected from 192.168.178.146:51129 as ArduinoClient (p2, c1, k15).
+1749651323: New connection from 192.168.178.146:51467 on port 1883.
+1749651323: Client ArduinoClient already connected, closing old connection.
+1749651323: New client connected from 192.168.178.146:51467 as ArduinoClient (p2, c1, k15).
+1749651346: Client ArduinoClient has exceeded timeout, disconnecting.
+1749651366: New connection from 192.168.178.62:51733 on port 1883.
+1749651366: New client connected from 192.168.178.62:51733 as ArduinoClient (p2, c1, k15).
+1749651372: New connection from 192.168.178.62:53212 on port 1883.
+1749651372: Client ArduinoClient already connected, closing old connection.
+1749651372: New client connected from 192.168.178.62:53212 as ArduinoClient (p2, c1, k15).
+1749651379: New connection from 192.168.178.62:54897 on port 1883.
+1749651379: Client ArduinoClient already connected, closing old connection.
+1749651379: New client connected from 192.168.178.62:54897 as ArduinoClient (p2, c1, k15).
+1749651386: New connection from 192.168.178.62:56830 on port 1883.
+1749651386: Client ArduinoClient already connected, closing old connection.
+1749651386: New client connected from 192.168.178.62:56830 as ArduinoClient (p2, c1, k15).
+1749651409: Client ArduinoClient has exceeded timeout, disconnecting.
+1749651477: New connection from 192.168.178.146:54836 on port 1883.
+1749651477: New client connected from 192.168.178.146:54836 as ArduinoClient (p2, c1, k15).
+1749651500: Client ArduinoClient has exceeded timeout, disconnecting.
+1749651800: New connection from 192.168.178.146:51192 on port 1883.
+1749651800: New client connected from 192.168.178.146:51192 as ESP8266Client (p2, c1, k15).
+1749651808: New connection from 192.168.178.146:60987 on port 1883.
+1749651808: Client ESP8266Client already connected, closing old connection.
+1749651808: New client connected from 192.168.178.146:60987 as ESP8266Client (p2, c1, k15).
+1749651816: New connection from 192.168.178.146:60023 on port 1883.
+1749651816: Client ESP8266Client already connected, closing old connection.
+1749651816: New client connected from 192.168.178.146:60023 as ESP8266Client (p2, c1, k15).
+1749651824: New connection from 192.168.178.146:54253 on port 1883.
+1749651824: Client ESP8266Client already connected, closing old connection.
+1749651824: New client connected from 192.168.178.146:54253 as ESP8266Client (p2, c1, k15).
+1749651833: New connection from 192.168.178.146:60895 on port 1883.
+1749651833: Client ESP8266Client already connected, closing old connection.
+1749651833: New client connected from 192.168.178.146:60895 as ESP8266Client (p2, c1, k15).
+1749651841: New connection from 192.168.178.146:65084 on port 1883.
+1749651841: Client ESP8266Client already connected, closing old connection.
+1749651841: New client connected from 192.168.178.146:65084 as ESP8266Client (p2, c1, k15).
+1749651849: New connection from 192.168.178.146:53709 on port 1883.
+1749651849: Client ESP8266Client already connected, closing old connection.
+1749651849: New client connected from 192.168.178.146:53709 as ESP8266Client (p2, c1, k15).
+1749651858: New connection from 192.168.178.146:55386 on port 1883.
+1749651858: Client ESP8266Client already connected, closing old connection.
+1749651858: New client connected from 192.168.178.146:55386 as ESP8266Client (p2, c1, k15).
+1749651866: New connection from 192.168.178.146:50014 on port 1883.
+1749651866: Client ESP8266Client already connected, closing old connection.
+1749651866: New client connected from 192.168.178.146:50014 as ESP8266Client (p2, c1, k15).
+1749651878: New connection from 192.168.178.146:63604 on port 1883.
+1749651878: Client ESP8266Client already connected, closing old connection.
+1749651878: New client connected from 192.168.178.146:63604 as ESP8266Client (p2, c1, k15).
+1749651886: New connection from 192.168.178.146:50119 on port 1883.
+1749651886: Client ESP8266Client already connected, closing old connection.
+1749651886: New client connected from 192.168.178.146:50119 as ESP8266Client (p2, c1, k15).
+1749651895: New connection from 192.168.178.146:51768 on port 1883.
+1749651895: Client ESP8266Client already connected, closing old connection.
+1749651895: New client connected from 192.168.178.146:51768 as ESP8266Client (p2, c1, k15).
+1749651903: New connection from 192.168.178.146:61959 on port 1883.
+1749651903: Client ESP8266Client already connected, closing old connection.
+1749651903: New client connected from 192.168.178.146:61959 as ESP8266Client (p2, c1, k15).
+1749651911: New connection from 192.168.178.146:52155 on port 1883.
+1749651911: Client ESP8266Client already connected, closing old connection.
+1749651911: New client connected from 192.168.178.146:52155 as ESP8266Client (p2, c1, k15).
+1749651919: New connection from 192.168.178.146:54493 on port 1883.
+1749651919: Client ESP8266Client already connected, closing old connection.
+1749651919: New client connected from 192.168.178.146:54493 as ESP8266Client (p2, c1, k15).
+1749651927: New connection from 192.168.178.146:62278 on port 1883.
+1749651927: Client ESP8266Client already connected, closing old connection.
+1749651927: New client connected from 192.168.178.146:62278 as ESP8266Client (p2, c1, k15).
+1749651936: New connection from 192.168.178.146:50874 on port 1883.
+1749651936: Client ESP8266Client already connected, closing old connection.
+1749651936: New client connected from 192.168.178.146:50874 as ESP8266Client (p2, c1, k15).
+1749651944: New connection from 192.168.178.146:53927 on port 1883.
+1749651944: Client ESP8266Client already connected, closing old connection.
+1749651944: New client connected from 192.168.178.146:53927 as ESP8266Client (p2, c1, k15).
+1749651952: New connection from 192.168.178.146:51681 on port 1883.
+1749651952: Client ESP8266Client already connected, closing old connection.
+1749651952: New client connected from 192.168.178.146:51681 as ESP8266Client (p2, c1, k15).
+1749651961: New connection from 192.168.178.146:53578 on port 1883.
+1749651961: Client ESP8266Client already connected, closing old connection.
+1749651961: New client connected from 192.168.178.146:53578 as ESP8266Client (p2, c1, k15).
+1749651969: New connection from 192.168.178.146:64258 on port 1883.
+1749651969: Client ESP8266Client already connected, closing old connection.
+1749651969: New client connected from 192.168.178.146:64258 as ESP8266Client (p2, c1, k15).
+1749651977: New connection from 192.168.178.146:53893 on port 1883.
+1749651977: Client ESP8266Client already connected, closing old connection.
+1749651977: New client connected from 192.168.178.146:53893 as ESP8266Client (p2, c1, k15).
+1749651985: New connection from 192.168.178.146:57409 on port 1883.
+1749651985: Client ESP8266Client already connected, closing old connection.
+1749651985: New client connected from 192.168.178.146:57409 as ESP8266Client (p2, c1, k15).
+1749651993: New connection from 192.168.178.146:61268 on port 1883.
+1749651994: Client ESP8266Client already connected, closing old connection.
+1749651994: New client connected from 192.168.178.146:61268 as ESP8266Client (p2, c1, k15).
+1749652002: New connection from 192.168.178.146:57425 on port 1883.
+1749652002: Client ESP8266Client already connected, closing old connection.
+1749652002: New client connected from 192.168.178.146:57425 as ESP8266Client (p2, c1, k15).
+1749652010: New connection from 192.168.178.146:50188 on port 1883.
+1749652010: Client ESP8266Client already connected, closing old connection.
+1749652010: New client connected from 192.168.178.146:50188 as ESP8266Client (p2, c1, k15).
+1749652018: New connection from 192.168.178.146:53628 on port 1883.
+1749652018: Client ESP8266Client already connected, closing old connection.
+1749652018: New client connected from 192.168.178.146:53628 as ESP8266Client (p2, c1, k15).
+1749652027: New connection from 192.168.178.146:64329 on port 1883.
+1749652027: Client ESP8266Client already connected, closing old connection.
+1749652027: New client connected from 192.168.178.146:64329 as ESP8266Client (p2, c1, k15).
+1749652050: Client ESP8266Client has exceeded timeout, disconnecting.
+1749652113: New connection from 192.168.178.146:51024 on port 1883.
+1749652113: New client connected from 192.168.178.146:51024 as ESP8266Client (p2, c1, k15).
+1749652121: New connection from 192.168.178.146:58975 on port 1883.
+1749652121: Client ESP8266Client already connected, closing old connection.
+1749652121: New client connected from 192.168.178.146:58975 as ESP8266Client (p2, c1, k15).
+1749652130: New connection from 192.168.178.146:61043 on port 1883.
+1749652130: Client ESP8266Client already connected, closing old connection.
+1749652130: New client connected from 192.168.178.146:61043 as ESP8266Client (p2, c1, k15).
+1749652138: New connection from 192.168.178.146:53979 on port 1883.
+1749652138: Client ESP8266Client already connected, closing old connection.
+1749652138: New client connected from 192.168.178.146:53979 as ESP8266Client (p2, c1, k15).
+1749652146: New connection from 192.168.178.146:57347 on port 1883.
+1749652146: Client ESP8266Client already connected, closing old connection.
+1749652146: New client connected from 192.168.178.146:57347 as ESP8266Client (p2, c1, k15).
+1749652154: New connection from 192.168.178.146:60296 on port 1883.
+1749652154: Client ESP8266Client already connected, closing old connection.
+1749652154: New client connected from 192.168.178.146:60296 as ESP8266Client (p2, c1, k15).
+1749652163: New connection from 192.168.178.146:62732 on port 1883.
+1749652163: Client ESP8266Client already connected, closing old connection.
+1749652163: New client connected from 192.168.178.146:62732 as ESP8266Client (p2, c1, k15).
+1749652171: New connection from 192.168.178.146:63414 on port 1883.
+1749652171: Client ESP8266Client already connected, closing old connection.
+1749652171: New client connected from 192.168.178.146:63414 as ESP8266Client (p2, c1, k15).
+1749652179: New connection from 192.168.178.146:60696 on port 1883.
+1749652179: Client ESP8266Client already connected, closing old connection.
+1749652179: New client connected from 192.168.178.146:60696 as ESP8266Client (p2, c1, k15).
+1749652188: New connection from 192.168.178.146:62436 on port 1883.
+1749652188: Client ESP8266Client already connected, closing old connection.
+1749652188: New client connected from 192.168.178.146:62436 as ESP8266Client (p2, c1, k15).
+1749652196: New connection from 192.168.178.146:50037 on port 1883.
+1749652196: Client ESP8266Client already connected, closing old connection.
+1749652196: New client connected from 192.168.178.146:50037 as ESP8266Client (p2, c1, k15).
+1749652204: New connection from 192.168.178.146:56567 on port 1883.
+1749652204: Client ESP8266Client already connected, closing old connection.
+1749652204: New client connected from 192.168.178.146:56567 as ESP8266Client (p2, c1, k15).
+1749652212: New connection from 192.168.178.146:63078 on port 1883.
+1749652212: Client ESP8266Client already connected, closing old connection.
+1749652212: New client connected from 192.168.178.146:63078 as ESP8266Client (p2, c1, k15).
+1749652221: New connection from 192.168.178.146:51265 on port 1883.
+1749652221: Client ESP8266Client already connected, closing old connection.
+1749652221: New client connected from 192.168.178.146:51265 as ESP8266Client (p2, c1, k15).
+1749652229: New connection from 192.168.178.146:50199 on port 1883.
+1749652229: Client ESP8266Client already connected, closing old connection.
+1749652229: New client connected from 192.168.178.146:50199 as ESP8266Client (p2, c1, k15).
+1749652237: New connection from 192.168.178.146:62504 on port 1883.
+1749652237: Client ESP8266Client already connected, closing old connection.
+1749652237: New client connected from 192.168.178.146:62504 as ESP8266Client (p2, c1, k15).
+1749652245: New connection from 192.168.178.146:50029 on port 1883.
+1749652245: Client ESP8266Client already connected, closing old connection.
+1749652245: New client connected from 192.168.178.146:50029 as ESP8266Client (p2, c1, k15).
+1749652265: New connection from 192.168.178.146:52770 on port 1883.
+1749652265: Client ESP8266Client already connected, closing old connection.
+1749652265: New client connected from 192.168.178.146:52770 as ESP8266Client (p2, c1, k15).
+1749652279: New connection from 192.168.178.146:64039 on port 1883.
+1749652279: Client ESP8266Client already connected, closing old connection.
+1749652279: New client connected from 192.168.178.146:64039 as ESP8266Client (p2, c1, k15).
+1749652292: New connection from 192.168.178.146:50338 on port 1883.
+1749652292: Client ESP8266Client already connected, closing old connection.
+1749652292: New client connected from 192.168.178.146:50338 as ESP8266Client (p2, c1, k15).
+1749652305: New connection from 192.168.178.146:58939 on port 1883.
+1749652305: Client ESP8266Client already connected, closing old connection.
+1749652305: New client connected from 192.168.178.146:58939 as ESP8266Client (p2, c1, k15).
+1749652324: New connection from 192.168.178.146:63336 on port 1883.
+1749652324: Client ESP8266Client already connected, closing old connection.
+1749652324: New client connected from 192.168.178.146:63336 as ESP8266Client (p2, c1, k15).
+1749652337: New connection from 192.168.178.146:59628 on port 1883.
+1749652337: Client ESP8266Client already connected, closing old connection.
+1749652337: New client connected from 192.168.178.146:59628 as ESP8266Client (p2, c1, k15).
+1749652350: New connection from 192.168.178.146:54448 on port 1883.
+1749652350: Client ESP8266Client already connected, closing old connection.
+1749652350: New client connected from 192.168.178.146:54448 as ESP8266Client (p2, c1, k15).
+1749652363: New connection from 192.168.178.146:60096 on port 1883.
+1749652363: Client ESP8266Client already connected, closing old connection.
+1749652363: New client connected from 192.168.178.146:60096 as ESP8266Client (p2, c1, k15).
+1749652376: New connection from 192.168.178.146:52828 on port 1883.
+1749652376: Client ESP8266Client already connected, closing old connection.
+1749652376: New client connected from 192.168.178.146:52828 as ESP8266Client (p2, c1, k15).
+1749652390: New connection from 192.168.178.146:50802 on port 1883.
+1749652390: Client ESP8266Client already connected, closing old connection.
+1749652390: New client connected from 192.168.178.146:50802 as ESP8266Client (p2, c1, k15).
+1749652403: New connection from 192.168.178.146:59846 on port 1883.
+1749652403: Client ESP8266Client already connected, closing old connection.
+1749652403: New client connected from 192.168.178.146:59846 as ESP8266Client (p2, c1, k15).
+1749652416: New connection from 192.168.178.146:52275 on port 1883.
+1749652416: Client ESP8266Client already connected, closing old connection.
+1749652416: New client connected from 192.168.178.146:52275 as ESP8266Client (p2, c1, k15).
+1749652429: New connection from 192.168.178.146:62021 on port 1883.
+1749652429: Client ESP8266Client already connected, closing old connection.
+1749652429: New client connected from 192.168.178.146:62021 as ESP8266Client (p2, c1, k15).
+1749652442: New connection from 192.168.178.146:52115 on port 1883.
+1749652442: Client ESP8266Client already connected, closing old connection.
+1749652442: New client connected from 192.168.178.146:52115 as ESP8266Client (p2, c1, k15).
+1749652455: New connection from 192.168.178.146:54970 on port 1883.
+1749652455: Client ESP8266Client already connected, closing old connection.
+1749652455: New client connected from 192.168.178.146:54970 as ESP8266Client (p2, c1, k15).
+1749652469: New connection from 192.168.178.146:60384 on port 1883.
+1749652469: Client ESP8266Client already connected, closing old connection.
+1749652469: New client connected from 192.168.178.146:60384 as ESP8266Client (p2, c1, k60).
+1749652476: New connection from 192.168.178.146:62442 on port 1883.
+1749652476: Client ESP8266Client already connected, closing old connection.
+1749652476: New client connected from 192.168.178.146:62442 as ESP8266Client (p2, c1, k60).
+1749652482: New connection from 192.168.178.146:64642 on port 1883.
+1749652482: Client ESP8266Client already connected, closing old connection.
+1749652482: New client connected from 192.168.178.146:64642 as ESP8266Client (p2, c1, k60).
+1749652489: New connection from 192.168.178.146:56270 on port 1883.
+1749652489: Client ESP8266Client already connected, closing old connection.
+1749652489: New client connected from 192.168.178.146:56270 as ESP8266Client (p2, c1, k60).
+1749652496: New connection from 192.168.178.146:52108 on port 1883.
+1749652496: Client ESP8266Client already connected, closing old connection.
+1749652496: New client connected from 192.168.178.146:52108 as ESP8266Client (p2, c1, k60).
+1749652502: New connection from 192.168.178.146:63456 on port 1883.
+1749652502: Client ESP8266Client already connected, closing old connection.
+1749652502: New client connected from 192.168.178.146:63456 as ESP8266Client (p2, c1, k60).
+1749652509: New connection from 192.168.178.146:63986 on port 1883.
+1749652509: Client ESP8266Client already connected, closing old connection.
+1749652509: New client connected from 192.168.178.146:63986 as ESP8266Client (p2, c1, k60).
+1749652516: New connection from 192.168.178.146:49757 on port 1883.
+1749652516: Client ESP8266Client already connected, closing old connection.
+1749652516: New client connected from 192.168.178.146:49757 as ESP8266Client (p2, c1, k60).
+1749652522: New connection from 192.168.178.146:56419 on port 1883.
+1749652522: Client ESP8266Client already connected, closing old connection.
+1749652522: New client connected from 192.168.178.146:56419 as ESP8266Client (p2, c1, k60).
+1749652529: New connection from 192.168.178.146:58740 on port 1883.
+1749652529: Client ESP8266Client already connected, closing old connection.
+1749652529: New client connected from 192.168.178.146:58740 as ESP8266Client (p2, c1, k60).
+1749652536: Client ESP8266Client closed its connection.
+1749652536: New connection from 192.168.178.146:55846 on port 1883.
+1749652536: New client connected from 192.168.178.146:55846 as ESP8266Client (p2, c1, k60).
+1749652544: New connection from 192.168.178.146:53588 on port 1883.
+1749652544: Client ESP8266Client already connected, closing old connection.
+1749652544: New client connected from 192.168.178.146:53588 as ESP8266Client (p2, c1, k60).
+1749652551: Client ESP8266Client closed its connection.
+1749652551: New connection from 192.168.178.146:60947 on port 1883.
+1749652551: New client connected from 192.168.178.146:60947 as ESP8266Client (p2, c1, k60).
+1749652559: New connection from 192.168.178.146:54333 on port 1883.
+1749652559: Client ESP8266Client already connected, closing old connection.
+1749652559: New client connected from 192.168.178.146:54333 as ESP8266Client (p2, c1, k60).
+1749652566: New connection from 192.168.178.146:51956 on port 1883.
+1749652566: Client ESP8266Client already connected, closing old connection.
+1749652566: New client connected from 192.168.178.146:51956 as ESP8266Client (p2, c1, k60).
+1749652572: New connection from 192.168.178.146:61719 on port 1883.
+1749652572: Client ESP8266Client already connected, closing old connection.
+1749652572: New client connected from 192.168.178.146:61719 as ESP8266Client (p2, c1, k60).
+1749652579: New connection from 192.168.178.146:60756 on port 1883.
+1749652579: Client ESP8266Client already connected, closing old connection.
+1749652579: New client connected from 192.168.178.146:60756 as ESP8266Client (p2, c1, k60).
+1749652586: New connection from 192.168.178.146:58090 on port 1883.
+1749652586: Client ESP8266Client already connected, closing old connection.
+1749652586: New client connected from 192.168.178.146:58090 as ESP8266Client (p2, c1, k60).
+1749652592: New connection from 192.168.178.146:61412 on port 1883.
+1749652592: Client ESP8266Client already connected, closing old connection.
+1749652592: New client connected from 192.168.178.146:61412 as ESP8266Client (p2, c1, k60).
+1749652599: New connection from 192.168.178.146:51952 on port 1883.
+1749652599: Client ESP8266Client already connected, closing old connection.
+1749652599: New client connected from 192.168.178.146:51952 as ESP8266Client (p2, c1, k60).
+1749652606: New connection from 192.168.178.146:50742 on port 1883.
+1749652606: Client ESP8266Client already connected, closing old connection.
+1749652606: New client connected from 192.168.178.146:50742 as ESP8266Client (p2, c1, k60).
+1749652612: New connection from 192.168.178.146:50291 on port 1883.
+1749652612: Client ESP8266Client already connected, closing old connection.
+1749652612: New client connected from 192.168.178.146:50291 as ESP8266Client (p2, c1, k60).
+1749652619: New connection from 192.168.178.146:53754 on port 1883.
+1749652619: Client ESP8266Client already connected, closing old connection.
+1749652619: New client connected from 192.168.178.146:53754 as ESP8266Client (p2, c1, k60).
+1749652626: New connection from 192.168.178.146:53483 on port 1883.
+1749652626: Client ESP8266Client already connected, closing old connection.
+1749652626: New client connected from 192.168.178.146:53483 as ESP8266Client (p2, c1, k60).
+1749652632: New connection from 192.168.178.146:64572 on port 1883.
+1749652632: Client ESP8266Client already connected, closing old connection.
+1749652632: New client connected from 192.168.178.146:64572 as ESP8266Client (p2, c1, k60).
+1749652639: New connection from 192.168.178.146:59804 on port 1883.
+1749652639: Client ESP8266Client already connected, closing old connection.
+1749652639: New client connected from 192.168.178.146:59804 as ESP8266Client (p2, c1, k60).
+1749652646: New connection from 192.168.178.146:52288 on port 1883.
+1749652646: Client ESP8266Client already connected, closing old connection.
+1749652646: New client connected from 192.168.178.146:52288 as ESP8266Client (p2, c1, k60).
+1749652652: New connection from 192.168.178.146:59725 on port 1883.
+1749652652: Client ESP8266Client already connected, closing old connection.
+1749652652: New client connected from 192.168.178.146:59725 as ESP8266Client (p2, c1, k60).
+1749652659: New connection from 192.168.178.146:55771 on port 1883.
+1749652659: Client ESP8266Client already connected, closing old connection.
+1749652659: New client connected from 192.168.178.146:55771 as ESP8266Client (p2, c1, k60).
+1749652666: New connection from 192.168.178.146:63110 on port 1883.
+1749652666: Client ESP8266Client already connected, closing old connection.
+1749652666: New client connected from 192.168.178.146:63110 as ESP8266Client (p2, c1, k60).
+1749652672: New connection from 192.168.178.146:54196 on port 1883.
+1749652672: Client ESP8266Client already connected, closing old connection.
+1749652672: New client connected from 192.168.178.146:54196 as ESP8266Client (p2, c1, k60).
+1749652679: New connection from 192.168.178.146:52029 on port 1883.
+1749652679: Client ESP8266Client already connected, closing old connection.
+1749652679: New client connected from 192.168.178.146:52029 as ESP8266Client (p2, c1, k60).
+1749652686: New connection from 192.168.178.146:57031 on port 1883.
+1749652686: Client ESP8266Client already connected, closing old connection.
+1749652686: New client connected from 192.168.178.146:57031 as ESP8266Client (p2, c1, k60).
+1749652692: New connection from 192.168.178.146:51978 on port 1883.
+1749652692: Client ESP8266Client already connected, closing old connection.
+1749652692: New client connected from 192.168.178.146:51978 as ESP8266Client (p2, c1, k60).
+1749652699: New connection from 192.168.178.146:65487 on port 1883.
+1749652699: Client ESP8266Client already connected, closing old connection.
+1749652699: New client connected from 192.168.178.146:65487 as ESP8266Client (p2, c1, k60).
+1749652706: New connection from 192.168.178.146:53348 on port 1883.
+1749652706: Client ESP8266Client already connected, closing old connection.
+1749652706: New client connected from 192.168.178.146:53348 as ESP8266Client (p2, c1, k60).
+1749652712: New connection from 192.168.178.146:64849 on port 1883.
+1749652712: Client ESP8266Client already connected, closing old connection.
+1749652712: New client connected from 192.168.178.146:64849 as ESP8266Client (p2, c1, k60).
+1749652727: New connection from 192.168.178.146:64330 on port 1883.
+1749652727: Client ESP8266Client already connected, closing old connection.
+1749652727: New client connected from 192.168.178.146:64330 as ESP8266Client (p2, c1, k60).
+1749652734: New connection from 192.168.178.146:49245 on port 1883.
+1749652734: Client ESP8266Client already connected, closing old connection.
+1749652734: New client connected from 192.168.178.146:49245 as ESP8266Client (p2, c1, k60).
+1749652740: New connection from 192.168.178.146:58775 on port 1883.
+1749652740: Client ESP8266Client already connected, closing old connection.
+1749652740: New client connected from 192.168.178.146:58775 as ESP8266Client (p2, c1, k60).
+1749652747: New connection from 192.168.178.146:61260 on port 1883.
+1749652747: Client ESP8266Client already connected, closing old connection.
+1749652747: New client connected from 192.168.178.146:61260 as ESP8266Client (p2, c1, k60).
+1749652754: New connection from 192.168.178.146:56584 on port 1883.
+1749652754: Client ESP8266Client already connected, closing old connection.
+1749652754: New client connected from 192.168.178.146:56584 as ESP8266Client (p2, c1, k60).
+1749652780: New connection from 192.168.178.146:60721 on port 1883.
+1749652780: Client ESP8266Client already connected, closing old connection.
+1749652780: New client connected from 192.168.178.146:60721 as ESP8266Client (p2, c1, k60).
+1749652786: New connection from 192.168.178.146:60391 on port 1883.
+1749652786: Client ESP8266Client already connected, closing old connection.
+1749652786: New client connected from 192.168.178.146:60391 as ESP8266Client (p2, c1, k60).
+1749652793: Client ESP8266Client closed its connection.
+1749652793: New connection from 192.168.178.146:64951 on port 1883.
+1749652793: New client connected from 192.168.178.146:64951 as ESP8266Client (p2, c1, k60).
+1749652800: New connection from 192.168.178.146:55595 on port 1883.
+1749652800: Client ESP8266Client already connected, closing old connection.
+1749652800: New client connected from 192.168.178.146:55595 as ESP8266Client (p2, c1, k60).
+1749652806: New connection from 192.168.178.146:51836 on port 1883.
+1749652806: Client ESP8266Client already connected, closing old connection.
+1749652806: New client connected from 192.168.178.146:51836 as ESP8266Client (p2, c1, k60).
+1749652813: New connection from 192.168.178.146:59112 on port 1883.
+1749652813: Client ESP8266Client already connected, closing old connection.
+1749652813: New client connected from 192.168.178.146:59112 as ESP8266Client (p2, c1, k60).
+1749652820: New connection from 192.168.178.146:51587 on port 1883.
+1749652820: Client ESP8266Client already connected, closing old connection.
+1749652820: New client connected from 192.168.178.146:51587 as ESP8266Client (p2, c1, k60).
+1749652826: New connection from 192.168.178.146:55875 on port 1883.
+1749652826: Client ESP8266Client already connected, closing old connection.
+1749652826: New client connected from 192.168.178.146:55875 as ESP8266Client (p2, c1, k60).
+1749652833: New connection from 192.168.178.146:58978 on port 1883.
+1749652833: Client ESP8266Client already connected, closing old connection.
+1749652833: New client connected from 192.168.178.146:58978 as ESP8266Client (p2, c1, k60).
+1749652840: New connection from 192.168.178.146:64914 on port 1883.
+1749652840: Client ESP8266Client already connected, closing old connection.
+1749652840: New client connected from 192.168.178.146:64914 as ESP8266Client (p2, c1, k60).
+1749652846: New connection from 192.168.178.146:57103 on port 1883.
+1749652846: Client ESP8266Client already connected, closing old connection.
+1749652846: New client connected from 192.168.178.146:57103 as ESP8266Client (p2, c1, k60).
+1749652853: New connection from 192.168.178.146:65337 on port 1883.
+1749652853: Client ESP8266Client already connected, closing old connection.
+1749652853: New client connected from 192.168.178.146:65337 as ESP8266Client (p2, c1, k60).
+1749652860: New connection from 192.168.178.146:61278 on port 1883.
+1749652860: Client ESP8266Client already connected, closing old connection.
+1749652860: New client connected from 192.168.178.146:61278 as ESP8266Client (p2, c1, k60).
+1749652866: New connection from 192.168.178.146:53007 on port 1883.
+1749652866: Client ESP8266Client already connected, closing old connection.
+1749652866: New client connected from 192.168.178.146:53007 as ESP8266Client (p2, c1, k60).
+1749652873: New connection from 192.168.178.146:55932 on port 1883.
+1749652873: Client ESP8266Client already connected, closing old connection.
+1749652873: New client connected from 192.168.178.146:55932 as ESP8266Client (p2, c1, k60).
+1749652880: New connection from 192.168.178.146:58511 on port 1883.
+1749652880: Client ESP8266Client already connected, closing old connection.
+1749652880: New client connected from 192.168.178.146:58511 as ESP8266Client (p2, c1, k60).
+1749652897: New connection from 192.168.178.146:59442 on port 1883.
+1749652897: Client ESP8266Client already connected, closing old connection.
+1749652897: New client connected from 192.168.178.146:59442 as ESP8266Client (p2, c1, k15).
+1749652921: Client auto-0CFB9310-1BC5-34B5-9E58-CC3E1EFFCEBA disconnected.
+1749652923: New connection from 192.168.178.162:44122 on port 1883.
+1749652923: New client connected from 192.168.178.162:44122 as auto-9DE96F67-0B32-2137-4328-5CBF5579A0EA (p2, c1, k60).
+1749653177: New connection from 192.168.178.146:51378 on port 1883.
+1749653177: Client ESP8266Client already connected, closing old connection.
+1749653177: New client connected from 192.168.178.146:51378 as ESP8266Client (p2, c1, k15).
+1749653345: New connection from 192.168.178.146:49813 on port 1883.
+1749653345: Client ESP8266Client already connected, closing old connection.
+1749653345: New client connected from 192.168.178.146:49813 as ESP8266Client (p2, c1, k15).
+1749653410: New connection from 192.168.178.146:57430 on port 1883.
+1749653410: Client ESP8266Client already connected, closing old connection.
+1749653410: New client connected from 192.168.178.146:57430 as ESP8266Client (p2, c1, k15).
+1749653496: New connection from 192.168.178.146:55721 on port 1883.
+1749653496: Client ESP8266Client already connected, closing old connection.
+1749653496: New client connected from 192.168.178.146:55721 as ESP8266Client (p2, c1, k15).
+1749653774: Client ESP8266Client has exceeded timeout, disconnecting.
+1749970557: Client auto-9DE96F67-0B32-2137-4328-5CBF5579A0EA has exceeded timeout, disconnecting.
+1749970557: Client 169 has exceeded timeout, disconnecting.
+1749970557: Client 142 has exceeded timeout, disconnecting.
+1749970559: New connection from 172.18.0.3:53137 on port 1883.
+1749970560: New client connected from 172.18.0.3:53137 as 142 (p2, c0, k60).
+1749970560: New connection from 172.18.0.4:41161 on port 1883.
+1749970560: New client connected from 172.18.0.4:41161 as 169 (p2, c0, k60).
+1749970643: Client 142 closed its connection.
+1749970643: Client 169 closed its connection.
+1749970643: mosquitto version 2.0.21 terminating
+1749970793: mosquitto version 2.0.21 starting
+1749970793: Config loaded from /mosquitto/config/mosquitto.conf.
+1749970793: Opening ipv4 listen socket on port 1883.
+1749970793: mosquitto version 2.0.21 running
+1749970794: New connection from 172.18.0.3:34769 on port 1883.
+1749970794: New connection from 172.18.0.4:41029 on port 1883.
+1749970794: New client connected from 172.18.0.3:34769 as 169 (p2, c0, k60).
+1749970794: New client connected from 172.18.0.4:41029 as 142 (p2, c0, k60).
+1749970854: New connection from 192.168.56.102:52078 on port 1883.
+1749970854: New client connected from 192.168.56.102:52078 as auto-67D24B4D-6564-7D2A-3ED4-A4A8FE6CFF6B (p2, c1, k60).
+1749970854: Client auto-67D24B4D-6564-7D2A-3ED4-A4A8FE6CFF6B disconnected.
+1749970880: New connection from 192.168.56.102:35188 on port 1883.
+1749970880: New client connected from 192.168.56.102:35188 as auto-1E4CABCC-C2BB-B99C-9635-C665DBC6F347 (p2, c1, k60).
+1749970880: Client auto-1E4CABCC-C2BB-B99C-9635-C665DBC6F347 disconnected.
+1749974596: mosquitto version 2.0.21 starting
+1749974596: Config loaded from /mosquitto/config/mosquitto.conf.
+1749974596: Opening ipv4 listen socket on port 1883.
+1749974596: mosquitto version 2.0.21 running
+1749974597: New connection from 172.18.0.3:42513 on port 1883.
+1749974597: New client connected from 172.18.0.3:42513 as 5ffa4779-b97f-4eeb-a839-3415958abb0b (p2, c0, k60).
+1749974597: New connection from 172.18.0.4:45181 on port 1883.
+1749974597: New client connected from 172.18.0.4:45181 as e340ee18-0588-4a18-82d8-f33a2ddcc3d3 (p2, c0, k60).
+1749974708: New connection from 192.168.56.102:60710 on port 1883.
+1749974708: New client connected from 192.168.56.102:60710 as auto-A062FF07-CD62-3451-9DAC-F798A09D0109 (p2, c1, k60).
+1749974708: Client auto-A062FF07-CD62-3451-9DAC-F798A09D0109 disconnected.
+1749974806: New connection from 192.168.56.102:52826 on port 1883.
+1749974806: New client connected from 192.168.56.102:52826 as auto-6F7E846C-9CEA-4B5A-A4ED-D341DB624F38 (p2, c1, k60).
+1749974806: Client auto-6F7E846C-9CEA-4B5A-A4ED-D341DB624F38 disconnected.
+1751006763: Client e340ee18-0588-4a18-82d8-f33a2ddcc3d3 has exceeded timeout, disconnecting.
+1751006763: Client 5ffa4779-b97f-4eeb-a839-3415958abb0b has exceeded timeout, disconnecting.
+1751006765: New connection from 172.18.0.4:42615 on port 1883.
+1751006765: New client connected from 172.18.0.4:42615 as e8449ab1-a967-479e-8a28-1bfc2a15d659 (p2, c0, k60).
+1751006765: New connection from 172.18.0.3:43947 on port 1883.
+1751006765: New client connected from 172.18.0.3:43947 as ec247218-4bbf-477b-bda2-b276139ffae7 (p2, c0, k60).
+1752684464: mosquitto version 2.0.21 starting
+1752684464: Config loaded from /mosquitto/config/mosquitto.conf.
+1752684464: Opening ipv4 listen socket on port 1883.
+1752684464: mosquitto version 2.0.21 running
+1752684673: mosquitto version 2.0.21 terminating
+1752684754: mosquitto version 2.0.21 starting
+1752684754: Config loaded from /mosquitto/config/mosquitto.conf.
+1752684754: Opening ipv4 listen socket on port 1883.
+1752684754: mosquitto version 2.0.21 running
+1752684755: New connection from 172.20.0.3:45087 on port 1883.
+1752684755: New client connected from 172.20.0.3:45087 as 4038acc1-8dd2-46f6-b7cc-0cfb2164a79a (p2, c0, k60).
+1752684755: New connection from 172.20.0.4:43975 on port 1883.
+1752684755: New client connected from 172.20.0.4:43975 as 1dc7d8b2-9d27-40af-8bc2-40c17f0b5ad9 (p2, c0, k60).
+1752685004: mosquitto version 2.0.21 starting
+1752685004: Config loaded from /mosquitto/config/mosquitto.conf.
+1752685004: Opening ipv4 listen socket on port 1883.
+1752685004: mosquitto version 2.0.21 running
+1752685005: New connection from 172.20.0.3:54785 on port 1883.
+1752685005: New client connected from 172.20.0.3:54785 as 25d24602-3952-4b56-a3c1-5af96add56f4 (p2, c0, k60).
+1752685005: New connection from 172.20.0.4:45005 on port 1883.
+1752685005: New client connected from 172.20.0.4:45005 as 131c82fb-0923-49ce-b760-2da8e44957b1 (p2, c0, k60).
+1752685237: mosquitto version 2.0.21 starting
+1752685237: Config loaded from /mosquitto/config/mosquitto.conf.
+1752685237: Opening ipv4 listen socket on port 1883.
+1752685237: mosquitto version 2.0.21 running
+1752685238: New connection from 172.20.0.3:33595 on port 1883.
+1752685238: New client connected from 172.20.0.3:33595 as fdacad89-db62-4119-a4b9-16ebced5d3b2 (p2, c0, k60).
+1752685238: New connection from 172.20.0.4:57227 on port 1883.
+1752685238: New client connected from 172.20.0.4:57227 as 2a7016b5-d0f7-4c6c-b5d1-30d8fb937516 (p2, c0, k60).
+1752685719: Client fdacad89-db62-4119-a4b9-16ebced5d3b2 closed its connection.
+1752685719: Client 2a7016b5-d0f7-4c6c-b5d1-30d8fb937516 closed its connection.
+1752685843: New connection from 172.20.0.3:38267 on port 1883.
+1752685843: New client connected from 172.20.0.3:38267 as e401926d-a291-47f6-ba5b-9fb24368cf73 (p2, c0, k60).
+1752685843: New connection from 172.20.0.4:60991 on port 1883.
+1752685843: New client connected from 172.20.0.4:60991 as dff5878e-5e51-4e6f-b821-f1dba47e7f49 (p2, c0, k60).
+1752686035: Client dff5878e-5e51-4e6f-b821-f1dba47e7f49 closed its connection.
+1752686035: Client e401926d-a291-47f6-ba5b-9fb24368cf73 closed its connection.
+1752686037: New connection from 172.20.0.3:43403 on port 1883.
+1752686037: New client connected from 172.20.0.3:43403 as 860ecc6b-e637-4562-91b0-3f4d0248c2e4 (p2, c0, k60).
+1752686037: New connection from 172.20.0.4:57465 on port 1883.
+1752686037: New client connected from 172.20.0.4:57465 as 57f3b75c-f940-49f3-a240-54b281c01881 (p2, c0, k60).
+1752686811: mosquitto version 2.0.21 starting
+1752686811: Config loaded from /mosquitto/config/mosquitto.conf.
+1752686811: Opening ipv4 listen socket on port 1883.
+1752686811: mosquitto version 2.0.21 running
+1752686812: New connection from 172.20.0.3:39051 on port 1883.
+1752686812: New client connected from 172.20.0.3:39051 as 1460e82c-28a0-4156-bc0d-b57ec5980095 (p2, c0, k60).
+1752686812: New connection from 172.20.0.4:55477 on port 1883.
+1752686812: New client connected from 172.20.0.4:55477 as 0a0b27ea-034e-45d9-b1c4-1261cfe115f4 (p2, c0, k60).
+1752687850: mosquitto version 2.0.21 starting
+1752687850: Config loaded from /mosquitto/config/mosquitto.conf.
+1752687850: Opening ipv4 listen socket on port 1883.
+1752687850: mosquitto version 2.0.21 running
+1752687851: New connection from 172.20.0.3:39927 on port 1883.
+1752687851: New client connected from 172.20.0.3:39927 as 4f42de65-0f90-4c5e-a5f0-9ab5a351604c (p2, c0, k60).
+1752687851: New connection from 172.20.0.4:48279 on port 1883.
+1752687851: New client connected from 172.20.0.4:48279 as f08ad4ca-b9a8-4c3e-86c8-d3818de20f7c (p2, c0, k60).
+1752688392: Client 4f42de65-0f90-4c5e-a5f0-9ab5a351604c closed its connection.
+1752688392: Client f08ad4ca-b9a8-4c3e-86c8-d3818de20f7c closed its connection.
+1752688465: mosquitto version 2.0.21 starting
+1752688465: Config loaded from /mosquitto/config/mosquitto.conf.
+1752688465: Opening ipv4 listen socket on port 1883.
+1752688465: mosquitto version 2.0.21 running
+1752688466: New connection from 172.20.0.3:53963 on port 1883.
+1752688466: New client connected from 172.20.0.3:53963 as 3827ab9d-7a18-4f42-a8ee-4877c748f31e (p2, c0, k60).
+1752688466: New connection from 172.20.0.4:50207 on port 1883.
+1752688466: New client connected from 172.20.0.4:50207 as 9c42db3c-0cb5-4ef0-9cf5-a66f3bbabd53 (p2, c0, k60).
+1752689772: mosquitto version 2.0.21 starting
+1752689772: Config loaded from /mosquitto/config/mosquitto.conf.
+1752689772: Opening ipv4 listen socket on port 1883.
+1752689772: mosquitto version 2.0.21 running
+1752689772: New connection from 172.20.0.3:34269 on port 1883.
+1752689772: New client connected from 172.20.0.3:34269 as efa3ed4a-83ed-488f-b26e-1fd74263c80d (p2, c0, k60).
+1752689773: New connection from 172.20.0.4:44477 on port 1883.
+1752689773: New client connected from 172.20.0.4:44477 as 4a0c23af-bf0f-4e39-acb6-8d5ce0488862 (p2, c0, k60).
+1752689944: Client 4a0c23af-bf0f-4e39-acb6-8d5ce0488862 closed its connection.
+1752689964: mosquitto version 2.0.21 starting
+1752689964: Config loaded from /mosquitto/config/mosquitto.conf.
+1752689964: Opening ipv4 listen socket on port 1883.
+1752689964: mosquitto version 2.0.21 running
+1752689965: New connection from 172.20.0.3:46997 on port 1883.
+1752689965: New client connected from 172.20.0.3:46997 as d0aff2c5-d8f5-44bb-8c21-fa985e3958ce (p2, c0, k60).
+1752689965: New connection from 172.20.0.4:40607 on port 1883.
+1752689965: New client connected from 172.20.0.4:40607 as ac063986-17ed-4c5a-a3c8-d5b5a641421c (p2, c0, k60).
+1752690247: Client ac063986-17ed-4c5a-a3c8-d5b5a641421c closed its connection.
+1752690247: Client d0aff2c5-d8f5-44bb-8c21-fa985e3958ce closed its connection.
+1752690276: mosquitto version 2.0.21 starting
+1752690276: Config loaded from /mosquitto/config/mosquitto.conf.
+1752690276: Opening ipv4 listen socket on port 1883.
+1752690276: mosquitto version 2.0.21 running
+1752690276: New connection from 172.19.0.3:60161 on port 1883.
+1752690276: New client connected from 172.19.0.3:60161 as 44b38163-6028-47a6-bf14-514d814e4d8d (p2, c0, k60).
+1752690276: New connection from 172.19.0.4:38643 on port 1883.
+1752690276: New client connected from 172.19.0.4:38643 as 06526514-b4c3-4d4c-9736-5ba764cf931f (p2, c0, k60).
+1752690802: Client 44b38163-6028-47a6-bf14-514d814e4d8d closed its connection.
+1752690802: Client 06526514-b4c3-4d4c-9736-5ba764cf931f closed its connection.
+1752690837: mosquitto version 2.0.21 starting
+1752690837: Config loaded from /mosquitto/config/mosquitto.conf.
+1752690837: Opening ipv4 listen socket on port 1883.
+1752690837: mosquitto version 2.0.21 running
+1752690837: New connection from 172.19.0.3:45487 on port 1883.
+1752690837: New client connected from 172.19.0.3:45487 as ff09397d-aa85-423a-bdec-01bb9a65440b (p2, c0, k60).
+1752690837: New connection from 172.19.0.4:42391 on port 1883.
+1752690837: New client connected from 172.19.0.4:42391 as bb78f3f4-7180-48fd-a6f2-3a9dd3e80ef5 (p2, c0, k60).
+1752691044: Client ff09397d-aa85-423a-bdec-01bb9a65440b closed its connection.
+1752691044: Client bb78f3f4-7180-48fd-a6f2-3a9dd3e80ef5 closed its connection.
+1752691066: mosquitto version 2.0.21 starting
+1752691066: Config loaded from /mosquitto/config/mosquitto.conf.
+1752691066: Opening ipv4 listen socket on port 1883.
+1752691066: mosquitto version 2.0.21 running
+1752691067: New connection from 172.19.0.3:54933 on port 1883.
+1752691067: New client connected from 172.19.0.3:54933 as 9ef35587-8755-44a7-8fc3-a01909b49cdc (p2, c0, k60).
+1752691067: New connection from 172.19.0.4:34065 on port 1883.
+1752691067: New client connected from 172.19.0.4:34065 as fa38bc94-bb79-4649-8b05-3f505981bcc1 (p2, c0, k60).
+1752691122: mosquitto version 2.0.21 starting
+1752691122: Config loaded from /mosquitto/config/mosquitto.conf.
+1752691122: Opening ipv4 listen socket on port 1883.
+1752691122: mosquitto version 2.0.21 running
+1752691123: New connection from 172.19.0.3:34179 on port 1883.
+1752691123: New client connected from 172.19.0.3:34179 as 6e0a6e89-6162-4db6-8577-a646bc4988b1 (p2, c0, k60).
+1752691123: New connection from 172.19.0.4:53247 on port 1883.
+1752691123: New client connected from 172.19.0.4:53247 as 3a1b5118-e522-4e58-bf45-dfc2a04b2c8a (p2, c0, k60).
+1752691299: mosquitto version 2.0.21 starting
+1752691299: Config loaded from /mosquitto/config/mosquitto.conf.
+1752691299: Opening ipv4 listen socket on port 1883.
+1752691299: mosquitto version 2.0.21 running
+1752691299: New connection from 172.20.0.3:48963 on port 1883.
+1752691299: New client connected from 172.20.0.3:48963 as 20dfe51e-44fe-4cb7-99d1-60fa534a7073 (p2, c0, k60).
+1752691299: New connection from 172.20.0.4:43719 on port 1883.
+1752691299: New client connected from 172.20.0.4:43719 as c61e68f0-eb60-4468-af7e-9f18f2a7e62c (p2, c0, k60).
+1752692156: mosquitto version 2.0.21 starting
+1752692156: Config loaded from /mosquitto/config/mosquitto.conf.
+1752692156: Opening ipv4 listen socket on port 1883.
+1752692156: mosquitto version 2.0.21 running
+1752692157: New connection from 172.19.0.3:41143 on port 1883.
+1752692157: New client connected from 172.19.0.3:41143 as 5317d57b-9836-4356-a25f-af65941d8cb9 (p2, c0, k60).
+1752692157: New connection from 172.19.0.4:56807 on port 1883.
+1752692157: New client connected from 172.19.0.4:56807 as a8ae7d6d-5d17-44d3-b1c3-49c031ef347e (p2, c0, k60).
+1752692384: Client 5317d57b-9836-4356-a25f-af65941d8cb9 closed its connection.
+1752692384: Client a8ae7d6d-5d17-44d3-b1c3-49c031ef347e closed its connection.
+1752692468: mosquitto version 2.0.21 starting
+1752692468: Config loaded from /mosquitto/config/mosquitto.conf.
+1752692468: Opening ipv4 listen socket on port 1883.
+1752692468: mosquitto version 2.0.21 running
+1752692468: New connection from 172.20.0.3:50837 on port 1883.
+1752692468: New client connected from 172.20.0.3:50837 as 068f412a-da54-41eb-a7ee-2fb0479f0ce0 (p2, c0, k60).
+1752692469: New connection from 172.20.0.4:40145 on port 1883.
+1752692469: New client connected from 172.20.0.4:40145 as 7ad1c7fc-01fb-4ad9-94b2-fc1a08169574 (p2, c0, k60).
+1752692901: Client 068f412a-da54-41eb-a7ee-2fb0479f0ce0 closed its connection.
+1752692901: Client 7ad1c7fc-01fb-4ad9-94b2-fc1a08169574 closed its connection.
